@@ -11,9 +11,9 @@ The dataset is about the consolidated financials of ABC Limited. All the numbers
 The dataset could be considered as a dataset of various restaurants, various branches of the company, or various products of any organization. The dataset is a form of consolidated financial report.   
 
 •	Company – The company or entity for which the information is there.
-•	Location – Location of the company or entity
-•	State – State of operation
-•	Month – Month for which the data is corresponding to.  
+•	Location – Location of the company or entity.
+•	State – State of operation.
+•	Month – Month for which the data is corresponding to.
 •	Quarter – Quarter for which the data is corresponding to.
 •	PL Head – Heading from Profit and Loss statement. Here, I have focused on 3 headings: Sales, Cost and Profit. 
 •	Category – Category is about the breakdown as PL head under various product categories.
