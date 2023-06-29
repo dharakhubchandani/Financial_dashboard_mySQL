@@ -1,0 +1,1513 @@
+Company,Location,State,Month,Quarter,PL_Head,Category,Budget,Actual,Salesperson
+Company 1,San Francisco,California,Jan,Quarter-1,Sales,Sales - Product 1,28344.6712,34013.60544,Alpha
+Company 1,San Francisco,California,Jan,Quarter-1,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,Jan,Quarter-1,Sales,Sales - Product 3,14172.3356,12046.48526,Bravo
+Company 1,San Francisco,California,Feb,Quarter-1,Sales,Sales - Product 1,28344.6712,34013.60544,Alpha
+Company 1,San Francisco,California,Feb,Quarter-1,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,Feb,Quarter-1,Sales,Sales - Product 3,14172.3356,11337.86848,Bravo
+Company 1,San Francisco,California,Mar,Quarter-1,Sales,Sales - Product 1,28344.6712,34013.60544,Alpha
+Company 1,San Francisco,California,Mar,Quarter-1,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,Mar,Quarter-1,Sales,Sales - Product 3,14172.3356,12188.20862,Bravo
+Company 1,San Francisco,California,April,Quarter-2,Sales,Sales - Product 1,28344.6712,26927.43764,Alpha
+Company 1,San Francisco,California,April,Quarter-2,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,April,Quarter-2,Sales,Sales - Product 3,14172.3356,12755.10204,Bravo
+Company 1,San Francisco,California,May,Quarter-2,Sales,Sales - Product 1,28344.6712,26927.43764,Alpha
+Company 1,San Francisco,California,May,Quarter-2,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,May,Quarter-2,Sales,Sales - Product 3,14172.3356,15589.56916,Bravo
+Company 1,San Francisco,California,June,Quarter-2,Sales,Sales - Product 1,28344.6712,26927.43764,Alpha
+Company 1,San Francisco,California,June,Quarter-2,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,June,Quarter-2,Sales,Sales - Product 3,14172.3356,17006.80272,Bravo
+Company 1,San Francisco,California,July,Quarter-3,Sales,Sales - Product 1,28344.6712,26927.43764,Alpha
+Company 1,San Francisco,California,July,Quarter-3,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,July,Quarter-3,Sales,Sales - Product 3,14172.3356,10629.2517,Bravo
+Company 1,San Francisco,California,Aug,Quarter-3,Sales,Sales - Product 1,28344.6712,26927.43764,Alpha
+Company 1,San Francisco,California,Aug,Quarter-3,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,Aug,Quarter-3,Sales,Sales - Product 3,14172.3356,10629.2517,Bravo
+Company 1,San Francisco,California,Sept,Quarter-3,Sales,Sales - Product 1,28344.6712,48185.94104,Alpha
+Company 1,San Francisco,California,Sept,Quarter-3,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,Sept,Quarter-3,Sales,Sales - Product 3,14172.3356,10629.2517,Bravo
+Company 1,San Francisco,California,Oct,Quarter-4,Sales,Sales - Product 1,28344.6712,48185.94104,Alpha
+Company 1,San Francisco,California,Oct,Quarter-4,Sales,Sales - Product 2,14172.3356,5668.93424,Alpha
+Company 1,San Francisco,California,Oct,Quarter-4,Sales,Sales - Product 3,14172.3356,10629.2517,Bravo
+Company 1,San Francisco,California,Nov,Quarter-4,Sales,Sales - Product 1,28344.6712,48185.94104,Alpha
+Company 1,San Francisco,California,Nov,Quarter-4,Sales,Sales - Product 2,14172.3356,12755.10204,Alpha
+Company 1,San Francisco,California,Nov,Quarter-4,Sales,Sales - Product 3,14172.3356,10629.2517,Bravo
+Company 1,San Francisco,California,Dec,Quarter-4,Sales,Sales - Product 1,28344.6712,48185.94104,Alpha
+Company 1,San Francisco,California,Dec,Quarter-4,Sales,Sales - Product 2,14172.3356,12755.10204,Alpha
+Company 1,San Francisco,California,Dec,Quarter-4,Sales,Sales - Product 3,14172.3356,12755.10204,Bravo
+Company 2,Culver City,California,Jan,Quarter-1,Sales,Sales - Product 1,45351.47392,54421.76871,Alpha
+Company 2,Culver City,California,Jan,Quarter-1,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,Jan,Quarter-1,Sales,Sales - Product 3,22675.73696,19274.37642,Bravo
+Company 2,Culver City,California,Feb,Quarter-1,Sales,Sales - Product 1,45351.47392,54421.76871,Alpha
+Company 2,Culver City,California,Feb,Quarter-1,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,Feb,Quarter-1,Sales,Sales - Product 3,22675.73696,18140.58957,Bravo
+Company 2,Culver City,California,Mar,Quarter-1,Sales,Sales - Product 1,45351.47392,54421.76871,Alpha
+Company 2,Culver City,California,Mar,Quarter-1,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,Mar,Quarter-1,Sales,Sales - Product 3,22675.73696,19501.13379,Bravo
+Company 2,Culver City,California,April,Quarter-2,Sales,Sales - Product 1,45351.47392,43083.90023,Alpha
+Company 2,Culver City,California,April,Quarter-2,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,April,Quarter-2,Sales,Sales - Product 3,22675.73696,20408.16327,Bravo
+Company 2,Culver City,California,May,Quarter-2,Sales,Sales - Product 1,45351.47392,43083.90023,Alpha
+Company 2,Culver City,California,May,Quarter-2,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,May,Quarter-2,Sales,Sales - Product 3,22675.73696,24943.31066,Bravo
+Company 2,Culver City,California,June,Quarter-2,Sales,Sales - Product 1,45351.47392,43083.90023,Alpha
+Company 2,Culver City,California,June,Quarter-2,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,June,Quarter-2,Sales,Sales - Product 3,22675.73696,27210.88435,Bravo
+Company 2,Culver City,California,July,Quarter-3,Sales,Sales - Product 1,45351.47392,43083.90023,Alpha
+Company 2,Culver City,California,July,Quarter-3,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,July,Quarter-3,Sales,Sales - Product 3,22675.73696,17006.80272,Bravo
+Company 2,Culver City,California,Aug,Quarter-3,Sales,Sales - Product 1,45351.47392,43083.90023,Alpha
+Company 2,Culver City,California,Aug,Quarter-3,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,Aug,Quarter-3,Sales,Sales - Product 3,22675.73696,17006.80272,Bravo
+Company 2,Culver City,California,Sept,Quarter-3,Sales,Sales - Product 1,45351.47392,77097.50567,Alpha
+Company 2,Culver City,California,Sept,Quarter-3,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,Sept,Quarter-3,Sales,Sales - Product 3,22675.73696,17006.80272,Bravo
+Company 2,Culver City,California,Oct,Quarter-4,Sales,Sales - Product 1,45351.47392,77097.50567,Alpha
+Company 2,Culver City,California,Oct,Quarter-4,Sales,Sales - Product 2,22675.73696,9070.294785,Alpha
+Company 2,Culver City,California,Oct,Quarter-4,Sales,Sales - Product 3,22675.73696,17006.80272,Bravo
+Company 2,Culver City,California,Nov,Quarter-4,Sales,Sales - Product 1,45351.47392,77097.50567,Alpha
+Company 2,Culver City,California,Nov,Quarter-4,Sales,Sales - Product 2,22675.73696,20408.16327,Alpha
+Company 2,Culver City,California,Nov,Quarter-4,Sales,Sales - Product 3,22675.73696,17006.80272,Bravo
+Company 2,Culver City,California,Dec,Quarter-4,Sales,Sales - Product 1,45351.47392,77097.50567,Alpha
+Company 2,Culver City,California,Dec,Quarter-4,Sales,Sales - Product 2,22675.73696,20408.16327,Alpha
+Company 2,Culver City,California,Dec,Quarter-4,Sales,Sales - Product 3,22675.73696,20408.16327,Bravo
+Company 3,Cupertino,California,Jan,Quarter-1,Sales,Sales - Product 1,17006.80272,20408.16327,Alpha
+Company 3,Cupertino,California,Jan,Quarter-1,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,Jan,Quarter-1,Sales,Sales - Product 3,8503.401361,7227.891156,Bravo
+Company 3,Cupertino,California,Feb,Quarter-1,Sales,Sales - Product 1,17006.80272,20408.16327,Alpha
+Company 3,Cupertino,California,Feb,Quarter-1,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,Feb,Quarter-1,Sales,Sales - Product 3,8503.401361,6802.721088,Bravo
+Company 3,Cupertino,California,Mar,Quarter-1,Sales,Sales - Product 1,17006.80272,20408.16327,Alpha
+Company 3,Cupertino,California,Mar,Quarter-1,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,Mar,Quarter-1,Sales,Sales - Product 3,8503.401361,7312.92517,Bravo
+Company 3,Cupertino,California,April,Quarter-2,Sales,Sales - Product 1,17006.80272,16156.46259,Alpha
+Company 3,Cupertino,California,April,Quarter-2,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,April,Quarter-2,Sales,Sales - Product 3,8503.401361,7653.061224,Bravo
+Company 3,Cupertino,California,May,Quarter-2,Sales,Sales - Product 1,17006.80272,16156.46259,Alpha
+Company 3,Cupertino,California,May,Quarter-2,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,May,Quarter-2,Sales,Sales - Product 3,8503.401361,9353.741497,Bravo
+Company 3,Cupertino,California,June,Quarter-2,Sales,Sales - Product 1,17006.80272,16156.46259,Alpha
+Company 3,Cupertino,California,June,Quarter-2,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,June,Quarter-2,Sales,Sales - Product 3,8503.401361,10204.08163,Bravo
+Company 3,Cupertino,California,July,Quarter-3,Sales,Sales - Product 1,17006.80272,16156.46259,Alpha
+Company 3,Cupertino,California,July,Quarter-3,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,July,Quarter-3,Sales,Sales - Product 3,8503.401361,6377.55102,Bravo
+Company 3,Cupertino,California,Aug,Quarter-3,Sales,Sales - Product 1,17006.80272,16156.46259,Alpha
+Company 3,Cupertino,California,Aug,Quarter-3,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,Aug,Quarter-3,Sales,Sales - Product 3,8503.401361,6377.55102,Bravo
+Company 3,Cupertino,California,Sept,Quarter-3,Sales,Sales - Product 1,17006.80272,28911.56463,Alpha
+Company 3,Cupertino,California,Sept,Quarter-3,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,Sept,Quarter-3,Sales,Sales - Product 3,8503.401361,6377.55102,Bravo
+Company 3,Cupertino,California,Oct,Quarter-4,Sales,Sales - Product 1,17006.80272,28911.56463,Alpha
+Company 3,Cupertino,California,Oct,Quarter-4,Sales,Sales - Product 2,8503.401361,3401.360544,Alpha
+Company 3,Cupertino,California,Oct,Quarter-4,Sales,Sales - Product 3,8503.401361,6377.55102,Bravo
+Company 3,Cupertino,California,Nov,Quarter-4,Sales,Sales - Product 1,17006.80272,28911.56463,Alpha
+Company 3,Cupertino,California,Nov,Quarter-4,Sales,Sales - Product 2,8503.401361,7653.061224,Alpha
+Company 3,Cupertino,California,Nov,Quarter-4,Sales,Sales - Product 3,8503.401361,6377.55102,Bravo
+Company 3,Cupertino,California,Dec,Quarter-4,Sales,Sales - Product 1,17006.80272,28911.56463,Alpha
+Company 3,Cupertino,California,Dec,Quarter-4,Sales,Sales - Product 2,8503.401361,7653.061224,Alpha
+Company 3,Cupertino,California,Dec,Quarter-4,Sales,Sales - Product 3,8503.401361,7653.061224,Bravo
+Company 4,Austin,Texas,Jan,Quarter-1,Sales,Sales - Product 1,51020.40816,61224.4898,Victor
+Company 4,Austin,Texas,Jan,Quarter-1,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,Jan,Quarter-1,Sales,Sales - Product 3,25510.20408,21683.67347,Yankee
+Company 4,Austin,Texas,Feb,Quarter-1,Sales,Sales - Product 1,51020.40816,61224.4898,Victor
+Company 4,Austin,Texas,Feb,Quarter-1,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,Feb,Quarter-1,Sales,Sales - Product 3,25510.20408,20408.16327,Yankee
+Company 4,Austin,Texas,Mar,Quarter-1,Sales,Sales - Product 1,51020.40816,61224.4898,Victor
+Company 4,Austin,Texas,Mar,Quarter-1,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,Mar,Quarter-1,Sales,Sales - Product 3,25510.20408,21938.77551,Yankee
+Company 4,Austin,Texas,April,Quarter-2,Sales,Sales - Product 1,51020.40816,48469.38776,Victor
+Company 4,Austin,Texas,April,Quarter-2,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,April,Quarter-2,Sales,Sales - Product 3,25510.20408,22959.18367,Yankee
+Company 4,Austin,Texas,May,Quarter-2,Sales,Sales - Product 1,51020.40816,48469.38776,Victor
+Company 4,Austin,Texas,May,Quarter-2,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,May,Quarter-2,Sales,Sales - Product 3,25510.20408,28061.22449,Yankee
+Company 4,Austin,Texas,June,Quarter-2,Sales,Sales - Product 1,51020.40816,48469.38776,Victor
+Company 4,Austin,Texas,June,Quarter-2,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,June,Quarter-2,Sales,Sales - Product 3,25510.20408,30612.2449,Yankee
+Company 4,Austin,Texas,July,Quarter-3,Sales,Sales - Product 1,51020.40816,48469.38776,Victor
+Company 4,Austin,Texas,July,Quarter-3,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,July,Quarter-3,Sales,Sales - Product 3,25510.20408,19132.65306,Yankee
+Company 4,Austin,Texas,Aug,Quarter-3,Sales,Sales - Product 1,51020.40816,48469.38776,Victor
+Company 4,Austin,Texas,Aug,Quarter-3,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,Aug,Quarter-3,Sales,Sales - Product 3,25510.20408,19132.65306,Yankee
+Company 4,Austin,Texas,Sept,Quarter-3,Sales,Sales - Product 1,51020.40816,86734.69388,Victor
+Company 4,Austin,Texas,Sept,Quarter-3,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,Sept,Quarter-3,Sales,Sales - Product 3,25510.20408,19132.65306,Yankee
+Company 4,Austin,Texas,Oct,Quarter-4,Sales,Sales - Product 1,51020.40816,86734.69388,Victor
+Company 4,Austin,Texas,Oct,Quarter-4,Sales,Sales - Product 2,25510.20408,10204.08163,Yankee
+Company 4,Austin,Texas,Oct,Quarter-4,Sales,Sales - Product 3,25510.20408,19132.65306,Yankee
+Company 4,Austin,Texas,Nov,Quarter-4,Sales,Sales - Product 1,51020.40816,86734.69388,Victor
+Company 4,Austin,Texas,Nov,Quarter-4,Sales,Sales - Product 2,25510.20408,22959.18367,Yankee
+Company 4,Austin,Texas,Nov,Quarter-4,Sales,Sales - Product 3,25510.20408,19132.65306,Yankee
+Company 4,Austin,Texas,Dec,Quarter-4,Sales,Sales - Product 1,51020.40816,86734.69388,Victor
+Company 4,Austin,Texas,Dec,Quarter-4,Sales,Sales - Product 2,25510.20408,22959.18367,Yankee
+Company 4,Austin,Texas,Dec,Quarter-4,Sales,Sales - Product 3,25510.20408,22959.18367,Yankee
+Company 5,Houston,Texas,Jan,Quarter-1,Sales,Sales - Product 1,68027.21088,81632.65306,Victor
+Company 5,Houston,Texas,Jan,Quarter-1,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,Jan,Quarter-1,Sales,Sales - Product 3,34013.60544,28911.56463,Yankee
+Company 5,Houston,Texas,Feb,Quarter-1,Sales,Sales - Product 1,68027.21088,81632.65306,Victor
+Company 5,Houston,Texas,Feb,Quarter-1,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,Feb,Quarter-1,Sales,Sales - Product 3,34013.60544,27210.88435,Yankee
+Company 5,Houston,Texas,Mar,Quarter-1,Sales,Sales - Product 1,68027.21088,81632.65306,Victor
+Company 5,Houston,Texas,Mar,Quarter-1,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,Mar,Quarter-1,Sales,Sales - Product 3,34013.60544,29251.70068,Yankee
+Company 5,Houston,Texas,April,Quarter-2,Sales,Sales - Product 1,68027.21088,64625.85034,Victor
+Company 5,Houston,Texas,April,Quarter-2,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,April,Quarter-2,Sales,Sales - Product 3,34013.60544,30612.2449,Yankee
+Company 5,Houston,Texas,May,Quarter-2,Sales,Sales - Product 1,68027.21088,64625.85034,Victor
+Company 5,Houston,Texas,May,Quarter-2,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,May,Quarter-2,Sales,Sales - Product 3,34013.60544,37414.96599,Yankee
+Company 5,Houston,Texas,June,Quarter-2,Sales,Sales - Product 1,68027.21088,64625.85034,Victor
+Company 5,Houston,Texas,June,Quarter-2,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,June,Quarter-2,Sales,Sales - Product 3,34013.60544,40816.32653,Yankee
+Company 5,Houston,Texas,July,Quarter-3,Sales,Sales - Product 1,68027.21088,64625.85034,Victor
+Company 5,Houston,Texas,July,Quarter-3,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,July,Quarter-3,Sales,Sales - Product 3,34013.60544,25510.20408,Yankee
+Company 5,Houston,Texas,Aug,Quarter-3,Sales,Sales - Product 1,68027.21088,64625.85034,Victor
+Company 5,Houston,Texas,Aug,Quarter-3,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,Aug,Quarter-3,Sales,Sales - Product 3,34013.60544,25510.20408,Yankee
+Company 5,Houston,Texas,Sept,Quarter-3,Sales,Sales - Product 1,68027.21088,115646.2585,Victor
+Company 5,Houston,Texas,Sept,Quarter-3,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,Sept,Quarter-3,Sales,Sales - Product 3,34013.60544,25510.20408,Yankee
+Company 5,Houston,Texas,Oct,Quarter-4,Sales,Sales - Product 1,68027.21088,115646.2585,Victor
+Company 5,Houston,Texas,Oct,Quarter-4,Sales,Sales - Product 2,34013.60544,13605.44218,Yankee
+Company 5,Houston,Texas,Oct,Quarter-4,Sales,Sales - Product 3,34013.60544,25510.20408,Yankee
+Company 5,Houston,Texas,Nov,Quarter-4,Sales,Sales - Product 1,68027.21088,115646.2585,Victor
+Company 5,Houston,Texas,Nov,Quarter-4,Sales,Sales - Product 2,34013.60544,30612.2449,Yankee
+Company 5,Houston,Texas,Nov,Quarter-4,Sales,Sales - Product 3,34013.60544,25510.20408,Yankee
+Company 5,Houston,Texas,Dec,Quarter-4,Sales,Sales - Product 1,68027.21088,115646.2585,Victor
+Company 5,Houston,Texas,Dec,Quarter-4,Sales,Sales - Product 2,34013.60544,30612.2449,Yankee
+Company 5,Houston,Texas,Dec,Quarter-4,Sales,Sales - Product 3,34013.60544,30612.2449,Yankee
+Company 6,Miami,Florida,Jan,Quarter-1,Sales,Sales - Product 1,141723.356,170068.0272,Victor
+Company 6,Miami,Florida,Jan,Quarter-1,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,Jan,Quarter-1,Sales,Sales - Product 3,70861.678,60232.4263,Yankee
+Company 6,Miami,Florida,Feb,Quarter-1,Sales,Sales - Product 1,141723.356,170068.0272,Victor
+Company 6,Miami,Florida,Feb,Quarter-1,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,Feb,Quarter-1,Sales,Sales - Product 3,70861.678,56689.3424,Yankee
+Company 6,Miami,Florida,Mar,Quarter-1,Sales,Sales - Product 1,141723.356,170068.0272,Victor
+Company 6,Miami,Florida,Mar,Quarter-1,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,Mar,Quarter-1,Sales,Sales - Product 3,70861.678,60941.04308,Yankee
+Company 6,Miami,Florida,April,Quarter-2,Sales,Sales - Product 1,141723.356,134637.1882,Victor
+Company 6,Miami,Florida,April,Quarter-2,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,April,Quarter-2,Sales,Sales - Product 3,70861.678,63775.5102,Yankee
+Company 6,Miami,Florida,May,Quarter-2,Sales,Sales - Product 1,141723.356,134637.1882,Victor
+Company 6,Miami,Florida,May,Quarter-2,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,May,Quarter-2,Sales,Sales - Product 3,70861.678,77947.8458,Yankee
+Company 6,Miami,Florida,June,Quarter-2,Sales,Sales - Product 1,141723.356,134637.1882,Victor
+Company 6,Miami,Florida,June,Quarter-2,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,June,Quarter-2,Sales,Sales - Product 3,70861.678,85034.01361,Yankee
+Company 6,Miami,Florida,July,Quarter-3,Sales,Sales - Product 1,141723.356,134637.1882,Victor
+Company 6,Miami,Florida,July,Quarter-3,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,July,Quarter-3,Sales,Sales - Product 3,70861.678,53146.2585,Yankee
+Company 6,Miami,Florida,Aug,Quarter-3,Sales,Sales - Product 1,141723.356,134637.1882,Victor
+Company 6,Miami,Florida,Aug,Quarter-3,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,Aug,Quarter-3,Sales,Sales - Product 3,70861.678,53146.2585,Yankee
+Company 6,Miami,Florida,Sept,Quarter-3,Sales,Sales - Product 1,141723.356,240929.7052,Victor
+Company 6,Miami,Florida,Sept,Quarter-3,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,Sept,Quarter-3,Sales,Sales - Product 3,70861.678,53146.2585,Yankee
+Company 6,Miami,Florida,Oct,Quarter-4,Sales,Sales - Product 1,141723.356,240929.7052,Victor
+Company 6,Miami,Florida,Oct,Quarter-4,Sales,Sales - Product 2,70861.678,28344.6712,Yankee
+Company 6,Miami,Florida,Oct,Quarter-4,Sales,Sales - Product 3,70861.678,53146.2585,Yankee
+Company 6,Miami,Florida,Nov,Quarter-4,Sales,Sales - Product 1,141723.356,240929.7052,Victor
+Company 6,Miami,Florida,Nov,Quarter-4,Sales,Sales - Product 2,70861.678,63775.5102,Yankee
+Company 6,Miami,Florida,Nov,Quarter-4,Sales,Sales - Product 3,70861.678,53146.2585,Yankee
+Company 6,Miami,Florida,Dec,Quarter-4,Sales,Sales - Product 1,141723.356,240929.7052,Victor
+Company 6,Miami,Florida,Dec,Quarter-4,Sales,Sales - Product 2,70861.678,63775.5102,Yankee
+Company 6,Miami,Florida,Dec,Quarter-4,Sales,Sales - Product 3,70861.678,63775.5102,Yankee
+Company 7,Tampa,Florida,Jan,Quarter-1,Sales,Sales - Product 1,56689.3424,68027.21088,Victor
+Company 7,Tampa,Florida,Jan,Quarter-1,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,Jan,Quarter-1,Sales,Sales - Product 3,28344.6712,24092.97052,Yankee
+Company 7,Tampa,Florida,Feb,Quarter-1,Sales,Sales - Product 1,56689.3424,68027.21088,Victor
+Company 7,Tampa,Florida,Feb,Quarter-1,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,Feb,Quarter-1,Sales,Sales - Product 3,28344.6712,22675.73696,Yankee
+Company 7,Tampa,Florida,Mar,Quarter-1,Sales,Sales - Product 1,56689.3424,68027.21088,Victor
+Company 7,Tampa,Florida,Mar,Quarter-1,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,Mar,Quarter-1,Sales,Sales - Product 3,28344.6712,24376.41723,Yankee
+Company 7,Tampa,Florida,April,Quarter-2,Sales,Sales - Product 1,56689.3424,53854.87528,Victor
+Company 7,Tampa,Florida,April,Quarter-2,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,April,Quarter-2,Sales,Sales - Product 3,28344.6712,25510.20408,Yankee
+Company 7,Tampa,Florida,May,Quarter-2,Sales,Sales - Product 1,56689.3424,53854.87528,Victor
+Company 7,Tampa,Florida,May,Quarter-2,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,May,Quarter-2,Sales,Sales - Product 3,28344.6712,31179.13832,Yankee
+Company 7,Tampa,Florida,June,Quarter-2,Sales,Sales - Product 1,56689.3424,53854.87528,Victor
+Company 7,Tampa,Florida,June,Quarter-2,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,June,Quarter-2,Sales,Sales - Product 3,28344.6712,34013.60544,Yankee
+Company 7,Tampa,Florida,July,Quarter-3,Sales,Sales - Product 1,56689.3424,53854.87528,Victor
+Company 7,Tampa,Florida,July,Quarter-3,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,July,Quarter-3,Sales,Sales - Product 3,28344.6712,21258.5034,Yankee
+Company 7,Tampa,Florida,Aug,Quarter-3,Sales,Sales - Product 1,56689.3424,53854.87528,Victor
+Company 7,Tampa,Florida,Aug,Quarter-3,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,Aug,Quarter-3,Sales,Sales - Product 3,28344.6712,21258.5034,Yankee
+Company 7,Tampa,Florida,Sept,Quarter-3,Sales,Sales - Product 1,56689.3424,96371.88209,Victor
+Company 7,Tampa,Florida,Sept,Quarter-3,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,Sept,Quarter-3,Sales,Sales - Product 3,28344.6712,21258.5034,Yankee
+Company 7,Tampa,Florida,Oct,Quarter-4,Sales,Sales - Product 1,56689.3424,96371.88209,Victor
+Company 7,Tampa,Florida,Oct,Quarter-4,Sales,Sales - Product 2,28344.6712,11337.86848,Yankee
+Company 7,Tampa,Florida,Oct,Quarter-4,Sales,Sales - Product 3,28344.6712,21258.5034,Yankee
+Company 7,Tampa,Florida,Nov,Quarter-4,Sales,Sales - Product 1,56689.3424,96371.88209,Victor
+Company 7,Tampa,Florida,Nov,Quarter-4,Sales,Sales - Product 2,28344.6712,25510.20408,Yankee
+Company 7,Tampa,Florida,Nov,Quarter-4,Sales,Sales - Product 3,28344.6712,21258.5034,Yankee
+Company 7,Tampa,Florida,Dec,Quarter-4,Sales,Sales - Product 1,56689.3424,96371.88209,Victor
+Company 7,Tampa,Florida,Dec,Quarter-4,Sales,Sales - Product 2,28344.6712,25510.20408,Yankee
+Company 7,Tampa,Florida,Dec,Quarter-4,Sales,Sales - Product 3,28344.6712,25510.20408,Yankee
+Company 8,Denver,Colorado,Jan,Quarter-1,Sales,Sales - Product 1,11337.86848,13605.44218,Victor
+Company 8,Denver,Colorado,Jan,Quarter-1,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,Jan,Quarter-1,Sales,Sales - Product 3,5668.93424,4818.594104,Yankee
+Company 8,Denver,Colorado,Feb,Quarter-1,Sales,Sales - Product 1,11337.86848,13605.44218,Victor
+Company 8,Denver,Colorado,Feb,Quarter-1,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,Feb,Quarter-1,Sales,Sales - Product 3,5668.93424,4535.147392,Yankee
+Company 8,Denver,Colorado,Mar,Quarter-1,Sales,Sales - Product 1,11337.86848,13605.44218,Victor
+Company 8,Denver,Colorado,Mar,Quarter-1,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,Mar,Quarter-1,Sales,Sales - Product 3,5668.93424,4875.283447,Yankee
+Company 8,Denver,Colorado,April,Quarter-2,Sales,Sales - Product 1,11337.86848,10770.97506,Victor
+Company 8,Denver,Colorado,April,Quarter-2,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,April,Quarter-2,Sales,Sales - Product 3,5668.93424,5102.040816,Yankee
+Company 8,Denver,Colorado,May,Quarter-2,Sales,Sales - Product 1,11337.86848,10770.97506,Victor
+Company 8,Denver,Colorado,May,Quarter-2,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,May,Quarter-2,Sales,Sales - Product 3,5668.93424,6235.827664,Yankee
+Company 8,Denver,Colorado,June,Quarter-2,Sales,Sales - Product 1,11337.86848,10770.97506,Victor
+Company 8,Denver,Colorado,June,Quarter-2,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,June,Quarter-2,Sales,Sales - Product 3,5668.93424,6802.721088,Yankee
+Company 8,Denver,Colorado,July,Quarter-3,Sales,Sales - Product 1,11337.86848,10770.97506,Victor
+Company 8,Denver,Colorado,July,Quarter-3,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,July,Quarter-3,Sales,Sales - Product 3,5668.93424,4251.70068,Yankee
+Company 8,Denver,Colorado,Aug,Quarter-3,Sales,Sales - Product 1,11337.86848,10770.97506,Victor
+Company 8,Denver,Colorado,Aug,Quarter-3,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,Aug,Quarter-3,Sales,Sales - Product 3,5668.93424,4251.70068,Yankee
+Company 8,Denver,Colorado,Sept,Quarter-3,Sales,Sales - Product 1,11337.86848,19274.37642,Victor
+Company 8,Denver,Colorado,Sept,Quarter-3,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,Sept,Quarter-3,Sales,Sales - Product 3,5668.93424,4251.70068,Yankee
+Company 8,Denver,Colorado,Oct,Quarter-4,Sales,Sales - Product 1,11337.86848,19274.37642,Victor
+Company 8,Denver,Colorado,Oct,Quarter-4,Sales,Sales - Product 2,5668.93424,2267.573696,Yankee
+Company 8,Denver,Colorado,Oct,Quarter-4,Sales,Sales - Product 3,5668.93424,4251.70068,Yankee
+Company 8,Denver,Colorado,Nov,Quarter-4,Sales,Sales - Product 1,11337.86848,19274.37642,Victor
+Company 8,Denver,Colorado,Nov,Quarter-4,Sales,Sales - Product 2,5668.93424,5102.040816,Yankee
+Company 8,Denver,Colorado,Nov,Quarter-4,Sales,Sales - Product 3,5668.93424,4251.70068,Yankee
+Company 8,Denver,Colorado,Dec,Quarter-4,Sales,Sales - Product 1,11337.86848,19274.37642,Victor
+Company 8,Denver,Colorado,Dec,Quarter-4,Sales,Sales - Product 2,5668.93424,5102.040816,Yankee
+Company 8,Denver,Colorado,Dec,Quarter-4,Sales,Sales - Product 3,5668.93424,5102.040816,Yankee
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Sales,Sales - Product 1,62358.27664,74829.93197,Alpha
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Sales,Sales - Product 3,31179.13832,26502.26757,Bravo
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Sales,Sales - Product 1,62358.27664,74829.93197,Alpha
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Sales,Sales - Product 3,31179.13832,24943.31066,Bravo
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Sales,Sales - Product 1,62358.27664,74829.93197,Alpha
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Sales,Sales - Product 3,31179.13832,26814.05896,Bravo
+Company 9,Phoenix,Arizona,April,Quarter-2,Sales,Sales - Product 1,62358.27664,59240.36281,Alpha
+Company 9,Phoenix,Arizona,April,Quarter-2,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,April,Quarter-2,Sales,Sales - Product 3,31179.13832,28061.22449,Bravo
+Company 9,Phoenix,Arizona,May,Quarter-2,Sales,Sales - Product 1,62358.27664,59240.36281,Alpha
+Company 9,Phoenix,Arizona,May,Quarter-2,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,May,Quarter-2,Sales,Sales - Product 3,31179.13832,34297.05215,Bravo
+Company 9,Phoenix,Arizona,June,Quarter-2,Sales,Sales - Product 1,62358.27664,59240.36281,Alpha
+Company 9,Phoenix,Arizona,June,Quarter-2,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,June,Quarter-2,Sales,Sales - Product 3,31179.13832,37414.96599,Bravo
+Company 9,Phoenix,Arizona,July,Quarter-3,Sales,Sales - Product 1,62358.27664,59240.36281,Alpha
+Company 9,Phoenix,Arizona,July,Quarter-3,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,July,Quarter-3,Sales,Sales - Product 3,31179.13832,23384.35374,Bravo
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Sales,Sales - Product 1,62358.27664,59240.36281,Alpha
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Sales,Sales - Product 3,31179.13832,23384.35374,Bravo
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Sales,Sales - Product 1,62358.27664,106009.0703,Alpha
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Sales,Sales - Product 3,31179.13832,23384.35374,Bravo
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Sales,Sales - Product 1,62358.27664,106009.0703,Alpha
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Sales,Sales - Product 2,31179.13832,12471.65533,Alpha
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Sales,Sales - Product 3,31179.13832,23384.35374,Bravo
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Sales,Sales - Product 1,62358.27664,106009.0703,Alpha
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Sales,Sales - Product 2,31179.13832,28061.22449,Alpha
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Sales,Sales - Product 3,31179.13832,23384.35374,Bravo
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Sales,Sales - Product 1,62358.27664,106009.0703,Alpha
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Sales,Sales - Product 2,31179.13832,28061.22449,Alpha
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Sales,Sales - Product 3,31179.13832,28061.22449,Bravo
+Company 10,Tucson,Arizona,Jan,Quarter-1,Sales,Sales - Product 1,68027.21088,81632.65306,Alpha
+Company 10,Tucson,Arizona,Jan,Quarter-1,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,Jan,Quarter-1,Sales,Sales - Product 3,34013.60544,28911.56463,Bravo
+Company 10,Tucson,Arizona,Feb,Quarter-1,Sales,Sales - Product 1,68027.21088,81632.65306,Alpha
+Company 10,Tucson,Arizona,Feb,Quarter-1,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,Feb,Quarter-1,Sales,Sales - Product 3,34013.60544,27210.88435,Bravo
+Company 10,Tucson,Arizona,Mar,Quarter-1,Sales,Sales - Product 1,68027.21088,81632.65306,Alpha
+Company 10,Tucson,Arizona,Mar,Quarter-1,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,Mar,Quarter-1,Sales,Sales - Product 3,34013.60544,29251.70068,Bravo
+Company 10,Tucson,Arizona,April,Quarter-2,Sales,Sales - Product 1,68027.21088,64625.85034,Alpha
+Company 10,Tucson,Arizona,April,Quarter-2,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,April,Quarter-2,Sales,Sales - Product 3,34013.60544,30612.2449,Bravo
+Company 10,Tucson,Arizona,May,Quarter-2,Sales,Sales - Product 1,68027.21088,64625.85034,Alpha
+Company 10,Tucson,Arizona,May,Quarter-2,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,May,Quarter-2,Sales,Sales - Product 3,34013.60544,37414.96599,Bravo
+Company 10,Tucson,Arizona,June,Quarter-2,Sales,Sales - Product 1,68027.21088,64625.85034,Alpha
+Company 10,Tucson,Arizona,June,Quarter-2,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,June,Quarter-2,Sales,Sales - Product 3,34013.60544,40816.32653,Bravo
+Company 10,Tucson,Arizona,July,Quarter-3,Sales,Sales - Product 1,68027.21088,64625.85034,Alpha
+Company 10,Tucson,Arizona,July,Quarter-3,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,July,Quarter-3,Sales,Sales - Product 3,34013.60544,25510.20408,Bravo
+Company 10,Tucson,Arizona,Aug,Quarter-3,Sales,Sales - Product 1,68027.21088,64625.85034,Alpha
+Company 10,Tucson,Arizona,Aug,Quarter-3,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,Aug,Quarter-3,Sales,Sales - Product 3,34013.60544,25510.20408,Bravo
+Company 10,Tucson,Arizona,Sept,Quarter-3,Sales,Sales - Product 1,68027.21088,115646.2585,Alpha
+Company 10,Tucson,Arizona,Sept,Quarter-3,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,Sept,Quarter-3,Sales,Sales - Product 3,34013.60544,25510.20408,Bravo
+Company 10,Tucson,Arizona,Oct,Quarter-4,Sales,Sales - Product 1,68027.21088,115646.2585,Alpha
+Company 10,Tucson,Arizona,Oct,Quarter-4,Sales,Sales - Product 2,34013.60544,13605.44218,Alpha
+Company 10,Tucson,Arizona,Oct,Quarter-4,Sales,Sales - Product 3,34013.60544,25510.20408,Bravo
+Company 10,Tucson,Arizona,Nov,Quarter-4,Sales,Sales - Product 1,68027.21088,115646.2585,Alpha
+Company 10,Tucson,Arizona,Nov,Quarter-4,Sales,Sales - Product 2,34013.60544,30612.2449,Alpha
+Company 10,Tucson,Arizona,Nov,Quarter-4,Sales,Sales - Product 3,34013.60544,25510.20408,Bravo
+Company 10,Tucson,Arizona,Dec,Quarter-4,Sales,Sales - Product 1,68027.21088,115646.2585,Alpha
+Company 10,Tucson,Arizona,Dec,Quarter-4,Sales,Sales - Product 2,34013.60544,30612.2449,Alpha
+Company 10,Tucson,Arizona,Dec,Quarter-4,Sales,Sales - Product 3,34013.60544,30612.2449,Bravo
+Company 11,New York,New York,Jan,Quarter-1,Sales,Sales - Product 1,79365.07937,95238.09524,Charlie
+Company 11,New York,New York,Jan,Quarter-1,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,Jan,Quarter-1,Sales,Sales - Product 3,39682.53968,33730.15873,Charlie
+Company 11,New York,New York,Feb,Quarter-1,Sales,Sales - Product 1,79365.07937,95238.09524,Charlie
+Company 11,New York,New York,Feb,Quarter-1,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,Feb,Quarter-1,Sales,Sales - Product 3,39682.53968,31746.03175,Charlie
+Company 11,New York,New York,Mar,Quarter-1,Sales,Sales - Product 1,79365.07937,95238.09524,Charlie
+Company 11,New York,New York,Mar,Quarter-1,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,Mar,Quarter-1,Sales,Sales - Product 3,39682.53968,34126.98413,Charlie
+Company 11,New York,New York,April,Quarter-2,Sales,Sales - Product 1,79365.07937,75396.8254,Charlie
+Company 11,New York,New York,April,Quarter-2,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,April,Quarter-2,Sales,Sales - Product 3,39682.53968,35714.28571,Charlie
+Company 11,New York,New York,May,Quarter-2,Sales,Sales - Product 1,79365.07937,75396.8254,Charlie
+Company 11,New York,New York,May,Quarter-2,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,May,Quarter-2,Sales,Sales - Product 3,39682.53968,43650.79365,Charlie
+Company 11,New York,New York,June,Quarter-2,Sales,Sales - Product 1,79365.07937,75396.8254,Charlie
+Company 11,New York,New York,June,Quarter-2,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,June,Quarter-2,Sales,Sales - Product 3,39682.53968,47619.04762,Charlie
+Company 11,New York,New York,July,Quarter-3,Sales,Sales - Product 1,79365.07937,75396.8254,Charlie
+Company 11,New York,New York,July,Quarter-3,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,July,Quarter-3,Sales,Sales - Product 3,39682.53968,29761.90476,Charlie
+Company 11,New York,New York,Aug,Quarter-3,Sales,Sales - Product 1,79365.07937,75396.8254,Charlie
+Company 11,New York,New York,Aug,Quarter-3,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,Aug,Quarter-3,Sales,Sales - Product 3,39682.53968,29761.90476,Charlie
+Company 11,New York,New York,Sept,Quarter-3,Sales,Sales - Product 1,79365.07937,134920.6349,Charlie
+Company 11,New York,New York,Sept,Quarter-3,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,Sept,Quarter-3,Sales,Sales - Product 3,39682.53968,29761.90476,Charlie
+Company 11,New York,New York,Oct,Quarter-4,Sales,Sales - Product 1,79365.07937,134920.6349,Charlie
+Company 11,New York,New York,Oct,Quarter-4,Sales,Sales - Product 2,39682.53968,15873.01587,Charlie
+Company 11,New York,New York,Oct,Quarter-4,Sales,Sales - Product 3,39682.53968,29761.90476,Charlie
+Company 11,New York,New York,Nov,Quarter-4,Sales,Sales - Product 1,79365.07937,134920.6349,Charlie
+Company 11,New York,New York,Nov,Quarter-4,Sales,Sales - Product 2,39682.53968,35714.28571,Charlie
+Company 11,New York,New York,Nov,Quarter-4,Sales,Sales - Product 3,39682.53968,29761.90476,Charlie
+Company 11,New York,New York,Dec,Quarter-4,Sales,Sales - Product 1,79365.07937,134920.6349,Charlie
+Company 11,New York,New York,Dec,Quarter-4,Sales,Sales - Product 2,39682.53968,35714.28571,Charlie
+Company 11,New York,New York,Dec,Quarter-4,Sales,Sales - Product 3,39682.53968,35714.28571,Charlie
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Sales,Sales - Product 1,85034.01361,102040.8163,Charlie
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Sales,Sales - Product 3,42517.0068,36139.45578,Charlie
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Sales,Sales - Product 1,85034.01361,102040.8163,Charlie
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Sales,Sales - Product 3,42517.0068,34013.60544,Charlie
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Sales,Sales - Product 1,85034.01361,102040.8163,Charlie
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Sales,Sales - Product 3,42517.0068,36564.62585,Charlie
+Company 12,Omaha,Nebraska,April,Quarter-2,Sales,Sales - Product 1,85034.01361,80782.31293,Charlie
+Company 12,Omaha,Nebraska,April,Quarter-2,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,April,Quarter-2,Sales,Sales - Product 3,42517.0068,38265.30612,Charlie
+Company 12,Omaha,Nebraska,May,Quarter-2,Sales,Sales - Product 1,85034.01361,80782.31293,Charlie
+Company 12,Omaha,Nebraska,May,Quarter-2,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,May,Quarter-2,Sales,Sales - Product 3,42517.0068,46768.70748,Charlie
+Company 12,Omaha,Nebraska,June,Quarter-2,Sales,Sales - Product 1,85034.01361,80782.31293,Charlie
+Company 12,Omaha,Nebraska,June,Quarter-2,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,June,Quarter-2,Sales,Sales - Product 3,42517.0068,51020.40816,Charlie
+Company 12,Omaha,Nebraska,July,Quarter-3,Sales,Sales - Product 1,85034.01361,80782.31293,Charlie
+Company 12,Omaha,Nebraska,July,Quarter-3,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,July,Quarter-3,Sales,Sales - Product 3,42517.0068,31887.7551,Charlie
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Sales,Sales - Product 1,85034.01361,80782.31293,Charlie
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Sales,Sales - Product 3,42517.0068,31887.7551,Charlie
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Sales,Sales - Product 1,85034.01361,144557.8231,Charlie
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Sales,Sales - Product 3,42517.0068,31887.7551,Charlie
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Sales,Sales - Product 1,85034.01361,144557.8231,Charlie
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Sales,Sales - Product 2,42517.0068,17006.80272,Charlie
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Sales,Sales - Product 3,42517.0068,31887.7551,Charlie
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Sales,Sales - Product 1,85034.01361,144557.8231,Charlie
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Sales,Sales - Product 2,42517.0068,38265.30612,Charlie
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Sales,Sales - Product 3,42517.0068,31887.7551,Charlie
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Sales,Sales - Product 1,85034.01361,144557.8231,Charlie
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Sales,Sales - Product 2,42517.0068,38265.30612,Charlie
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Sales,Sales - Product 3,42517.0068,38265.30612,Charlie
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Sales,Sales - Product 1,96371.88209,115646.2585,Charlie
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Sales,Sales - Product 3,48185.94104,40958.04989,Charlie
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Sales,Sales - Product 1,96371.88209,115646.2585,Charlie
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Sales,Sales - Product 3,48185.94104,38548.75283,Charlie
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Sales,Sales - Product 1,96371.88209,115646.2585,Charlie
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Sales,Sales - Product 3,48185.94104,41439.9093,Charlie
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Sales,Sales - Product 1,96371.88209,91553.28798,Charlie
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Sales,Sales - Product 3,48185.94104,43367.34694,Charlie
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Sales,Sales - Product 1,96371.88209,91553.28798,Charlie
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Sales,Sales - Product 3,48185.94104,53004.53515,Charlie
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Sales,Sales - Product 1,96371.88209,91553.28798,Charlie
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Sales,Sales - Product 3,48185.94104,57823.12925,Charlie
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Sales,Sales - Product 1,96371.88209,91553.28798,Charlie
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Sales,Sales - Product 3,48185.94104,36139.45578,Charlie
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Sales,Sales - Product 1,96371.88209,91553.28798,Charlie
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Sales,Sales - Product 3,48185.94104,36139.45578,Charlie
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Sales,Sales - Product 1,96371.88209,163832.1995,Charlie
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Sales,Sales - Product 3,48185.94104,36139.45578,Charlie
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Sales,Sales - Product 1,96371.88209,163832.1995,Charlie
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Sales,Sales - Product 2,48185.94104,19274.37642,Charlie
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Sales,Sales - Product 3,48185.94104,36139.45578,Charlie
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Sales,Sales - Product 1,96371.88209,163832.1995,Charlie
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Sales,Sales - Product 2,48185.94104,43367.34694,Charlie
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Sales,Sales - Product 3,48185.94104,36139.45578,Charlie
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Sales,Sales - Product 1,96371.88209,163832.1995,Charlie
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Sales,Sales - Product 2,48185.94104,43367.34694,Charlie
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Sales,Sales - Product 3,48185.94104,43367.34694,Charlie
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Sales,Sales - Product 1,22675.73696,27210.88435,Victor
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Sales,Sales - Product 3,11337.86848,9637.188209,Yankee
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Sales,Sales - Product 1,22675.73696,27210.88435,Victor
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Sales,Sales - Product 3,11337.86848,9070.294785,Yankee
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Sales,Sales - Product 1,22675.73696,27210.88435,Victor
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Sales,Sales - Product 3,11337.86848,9750.566893,Yankee
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Sales,Sales - Product 1,22675.73696,21541.95011,Victor
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Sales,Sales - Product 3,11337.86848,10204.08163,Yankee
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Sales,Sales - Product 1,22675.73696,21541.95011,Victor
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Sales,Sales - Product 3,11337.86848,12471.65533,Yankee
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Sales,Sales - Product 1,22675.73696,21541.95011,Victor
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Sales,Sales - Product 3,11337.86848,13605.44218,Yankee
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Sales,Sales - Product 1,22675.73696,21541.95011,Victor
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Sales,Sales - Product 3,11337.86848,8503.401361,Yankee
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Sales,Sales - Product 1,22675.73696,21541.95011,Victor
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Sales,Sales - Product 3,11337.86848,8503.401361,Yankee
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Sales,Sales - Product 1,22675.73696,38548.75283,Victor
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Sales,Sales - Product 3,11337.86848,8503.401361,Yankee
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Sales,Sales - Product 1,22675.73696,38548.75283,Victor
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Sales,Sales - Product 2,11337.86848,4535.147392,Yankee
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Sales,Sales - Product 3,11337.86848,8503.401361,Yankee
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Sales,Sales - Product 1,22675.73696,38548.75283,Victor
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Sales,Sales - Product 2,11337.86848,10204.08163,Yankee
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Sales,Sales - Product 3,11337.86848,8503.401361,Yankee
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Sales,Sales - Product 1,22675.73696,38548.75283,Victor
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Sales,Sales - Product 2,11337.86848,10204.08163,Yankee
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Sales,Sales - Product 3,11337.86848,10204.08163,Yankee
+Company 1,San Francisco,California,Jan,Quarter-1,Cost,Cost - Product 1,18424.03628,22108.84354,NA
+Company 1,San Francisco,California,Jan,Quarter-1,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,Jan,Quarter-1,Cost,Cost - Product 3,9212.018141,7830.21542,NA
+Company 1,San Francisco,California,Feb,Quarter-1,Cost,Cost - Product 1,18424.03628,22108.84354,NA
+Company 1,San Francisco,California,Feb,Quarter-1,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,Feb,Quarter-1,Cost,Cost - Product 3,9212.018141,7369.614512,NA
+Company 1,San Francisco,California,Mar,Quarter-1,Cost,Cost - Product 1,18424.03628,22108.84354,NA
+Company 1,San Francisco,California,Mar,Quarter-1,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,Mar,Quarter-1,Cost,Cost - Product 3,9212.018141,7922.335601,NA
+Company 1,San Francisco,California,April,Quarter-2,Cost,Cost - Product 1,18424.03628,17502.83447,NA
+Company 1,San Francisco,California,April,Quarter-2,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,April,Quarter-2,Cost,Cost - Product 3,9212.018141,8290.816327,NA
+Company 1,San Francisco,California,May,Quarter-2,Cost,Cost - Product 1,18424.03628,17502.83447,NA
+Company 1,San Francisco,California,May,Quarter-2,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,May,Quarter-2,Cost,Cost - Product 3,9212.018141,10133.21995,NA
+Company 1,San Francisco,California,June,Quarter-2,Cost,Cost - Product 1,18424.03628,17502.83447,NA
+Company 1,San Francisco,California,June,Quarter-2,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,June,Quarter-2,Cost,Cost - Product 3,9212.018141,11054.42177,NA
+Company 1,San Francisco,California,July,Quarter-3,Cost,Cost - Product 1,18424.03628,17502.83447,NA
+Company 1,San Francisco,California,July,Quarter-3,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,July,Quarter-3,Cost,Cost - Product 3,9212.018141,6909.013605,NA
+Company 1,San Francisco,California,Aug,Quarter-3,Cost,Cost - Product 1,18424.03628,17502.83447,NA
+Company 1,San Francisco,California,Aug,Quarter-3,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,Aug,Quarter-3,Cost,Cost - Product 3,9212.018141,6909.013605,NA
+Company 1,San Francisco,California,Sept,Quarter-3,Cost,Cost - Product 1,18424.03628,31320.86168,NA
+Company 1,San Francisco,California,Sept,Quarter-3,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,Sept,Quarter-3,Cost,Cost - Product 3,9212.018141,6909.013605,NA
+Company 1,San Francisco,California,Oct,Quarter-4,Cost,Cost - Product 1,18424.03628,31320.86168,NA
+Company 1,San Francisco,California,Oct,Quarter-4,Cost,Cost - Product 2,9212.018141,3684.807256,NA
+Company 1,San Francisco,California,Oct,Quarter-4,Cost,Cost - Product 3,9212.018141,6909.013605,NA
+Company 1,San Francisco,California,Nov,Quarter-4,Cost,Cost - Product 1,18424.03628,31320.86168,NA
+Company 1,San Francisco,California,Nov,Quarter-4,Cost,Cost - Product 2,9212.018141,8290.816327,NA
+Company 1,San Francisco,California,Nov,Quarter-4,Cost,Cost - Product 3,9212.018141,6909.013605,NA
+Company 1,San Francisco,California,Dec,Quarter-4,Cost,Cost - Product 1,18424.03628,31320.86168,NA
+Company 1,San Francisco,California,Dec,Quarter-4,Cost,Cost - Product 2,9212.018141,8290.816327,NA
+Company 1,San Francisco,California,Dec,Quarter-4,Cost,Cost - Product 3,9212.018141,8290.816327,NA
+Company 2,Culver City,California,Jan,Quarter-1,Cost,Cost - Product 1,34013.60544,40816.32653,NA
+Company 2,Culver City,California,Jan,Quarter-1,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,Jan,Quarter-1,Cost,Cost - Product 3,17006.80272,14455.78231,NA
+Company 2,Culver City,California,Feb,Quarter-1,Cost,Cost - Product 1,34013.60544,40816.32653,NA
+Company 2,Culver City,California,Feb,Quarter-1,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,Feb,Quarter-1,Cost,Cost - Product 3,17006.80272,13605.44218,NA
+Company 2,Culver City,California,Mar,Quarter-1,Cost,Cost - Product 1,34013.60544,40816.32653,NA
+Company 2,Culver City,California,Mar,Quarter-1,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,Mar,Quarter-1,Cost,Cost - Product 3,17006.80272,14625.85034,NA
+Company 2,Culver City,California,April,Quarter-2,Cost,Cost - Product 1,34013.60544,32312.92517,NA
+Company 2,Culver City,California,April,Quarter-2,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,April,Quarter-2,Cost,Cost - Product 3,17006.80272,15306.12245,NA
+Company 2,Culver City,California,May,Quarter-2,Cost,Cost - Product 1,34013.60544,32312.92517,NA
+Company 2,Culver City,California,May,Quarter-2,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,May,Quarter-2,Cost,Cost - Product 3,17006.80272,18707.48299,NA
+Company 2,Culver City,California,June,Quarter-2,Cost,Cost - Product 1,34013.60544,32312.92517,NA
+Company 2,Culver City,California,June,Quarter-2,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,June,Quarter-2,Cost,Cost - Product 3,17006.80272,20408.16327,NA
+Company 2,Culver City,California,July,Quarter-3,Cost,Cost - Product 1,34013.60544,32312.92517,NA
+Company 2,Culver City,California,July,Quarter-3,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,July,Quarter-3,Cost,Cost - Product 3,17006.80272,12755.10204,NA
+Company 2,Culver City,California,Aug,Quarter-3,Cost,Cost - Product 1,34013.60544,32312.92517,NA
+Company 2,Culver City,California,Aug,Quarter-3,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,Aug,Quarter-3,Cost,Cost - Product 3,17006.80272,12755.10204,NA
+Company 2,Culver City,California,Sept,Quarter-3,Cost,Cost - Product 1,34013.60544,57823.12925,NA
+Company 2,Culver City,California,Sept,Quarter-3,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,Sept,Quarter-3,Cost,Cost - Product 3,17006.80272,12755.10204,NA
+Company 2,Culver City,California,Oct,Quarter-4,Cost,Cost - Product 1,34013.60544,57823.12925,NA
+Company 2,Culver City,California,Oct,Quarter-4,Cost,Cost - Product 2,17006.80272,6802.721088,NA
+Company 2,Culver City,California,Oct,Quarter-4,Cost,Cost - Product 3,17006.80272,12755.10204,NA
+Company 2,Culver City,California,Nov,Quarter-4,Cost,Cost - Product 1,34013.60544,57823.12925,NA
+Company 2,Culver City,California,Nov,Quarter-4,Cost,Cost - Product 2,17006.80272,15306.12245,NA
+Company 2,Culver City,California,Nov,Quarter-4,Cost,Cost - Product 3,17006.80272,12755.10204,NA
+Company 2,Culver City,California,Dec,Quarter-4,Cost,Cost - Product 1,34013.60544,57823.12925,NA
+Company 2,Culver City,California,Dec,Quarter-4,Cost,Cost - Product 2,17006.80272,15306.12245,NA
+Company 2,Culver City,California,Dec,Quarter-4,Cost,Cost - Product 3,17006.80272,15306.12245,NA
+Company 3,Cupertino,California,Jan,Quarter-1,Cost,Cost - Product 1,14795.91837,17755.10204,NA
+Company 3,Cupertino,California,Jan,Quarter-1,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,Jan,Quarter-1,Cost,Cost - Product 3,7397.959184,6288.265306,NA
+Company 3,Cupertino,California,Feb,Quarter-1,Cost,Cost - Product 1,14795.91837,17755.10204,NA
+Company 3,Cupertino,California,Feb,Quarter-1,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,Feb,Quarter-1,Cost,Cost - Product 3,7397.959184,5918.367347,NA
+Company 3,Cupertino,California,Mar,Quarter-1,Cost,Cost - Product 1,14795.91837,17755.10204,NA
+Company 3,Cupertino,California,Mar,Quarter-1,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,Mar,Quarter-1,Cost,Cost - Product 3,7397.959184,6362.244898,NA
+Company 3,Cupertino,California,April,Quarter-2,Cost,Cost - Product 1,14795.91837,14056.12245,NA
+Company 3,Cupertino,California,April,Quarter-2,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,April,Quarter-2,Cost,Cost - Product 3,7397.959184,6658.163265,NA
+Company 3,Cupertino,California,May,Quarter-2,Cost,Cost - Product 1,14795.91837,14056.12245,NA
+Company 3,Cupertino,California,May,Quarter-2,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,May,Quarter-2,Cost,Cost - Product 3,7397.959184,8137.755102,NA
+Company 3,Cupertino,California,June,Quarter-2,Cost,Cost - Product 1,14795.91837,14056.12245,NA
+Company 3,Cupertino,California,June,Quarter-2,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,June,Quarter-2,Cost,Cost - Product 3,7397.959184,8877.55102,NA
+Company 3,Cupertino,California,July,Quarter-3,Cost,Cost - Product 1,14795.91837,14056.12245,NA
+Company 3,Cupertino,California,July,Quarter-3,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,July,Quarter-3,Cost,Cost - Product 3,7397.959184,5548.469388,NA
+Company 3,Cupertino,California,Aug,Quarter-3,Cost,Cost - Product 1,14795.91837,14056.12245,NA
+Company 3,Cupertino,California,Aug,Quarter-3,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,Aug,Quarter-3,Cost,Cost - Product 3,7397.959184,5548.469388,NA
+Company 3,Cupertino,California,Sept,Quarter-3,Cost,Cost - Product 1,14795.91837,25153.06122,NA
+Company 3,Cupertino,California,Sept,Quarter-3,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,Sept,Quarter-3,Cost,Cost - Product 3,7397.959184,5548.469388,NA
+Company 3,Cupertino,California,Oct,Quarter-4,Cost,Cost - Product 1,14795.91837,25153.06122,NA
+Company 3,Cupertino,California,Oct,Quarter-4,Cost,Cost - Product 2,7397.959184,2959.183673,NA
+Company 3,Cupertino,California,Oct,Quarter-4,Cost,Cost - Product 3,7397.959184,5548.469388,NA
+Company 3,Cupertino,California,Nov,Quarter-4,Cost,Cost - Product 1,14795.91837,25153.06122,NA
+Company 3,Cupertino,California,Nov,Quarter-4,Cost,Cost - Product 2,7397.959184,6658.163265,NA
+Company 3,Cupertino,California,Nov,Quarter-4,Cost,Cost - Product 3,7397.959184,5548.469388,NA
+Company 3,Cupertino,California,Dec,Quarter-4,Cost,Cost - Product 1,14795.91837,25153.06122,NA
+Company 3,Cupertino,California,Dec,Quarter-4,Cost,Cost - Product 2,7397.959184,6658.163265,NA
+Company 3,Cupertino,California,Dec,Quarter-4,Cost,Cost - Product 3,7397.959184,6658.163265,NA
+Company 4,Austin,Texas,Jan,Quarter-1,Cost,Cost - Product 1,43367.34694,52040.81633,NA
+Company 4,Austin,Texas,Jan,Quarter-1,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,Jan,Quarter-1,Cost,Cost - Product 3,21683.67347,18431.12245,NA
+Company 4,Austin,Texas,Feb,Quarter-1,Cost,Cost - Product 1,43367.34694,52040.81633,NA
+Company 4,Austin,Texas,Feb,Quarter-1,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,Feb,Quarter-1,Cost,Cost - Product 3,21683.67347,17346.93878,NA
+Company 4,Austin,Texas,Mar,Quarter-1,Cost,Cost - Product 1,43367.34694,52040.81633,NA
+Company 4,Austin,Texas,Mar,Quarter-1,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,Mar,Quarter-1,Cost,Cost - Product 3,21683.67347,18647.95918,NA
+Company 4,Austin,Texas,April,Quarter-2,Cost,Cost - Product 1,43367.34694,41198.97959,NA
+Company 4,Austin,Texas,April,Quarter-2,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,April,Quarter-2,Cost,Cost - Product 3,21683.67347,19515.30612,NA
+Company 4,Austin,Texas,May,Quarter-2,Cost,Cost - Product 1,43367.34694,41198.97959,NA
+Company 4,Austin,Texas,May,Quarter-2,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,May,Quarter-2,Cost,Cost - Product 3,21683.67347,23852.04082,NA
+Company 4,Austin,Texas,June,Quarter-2,Cost,Cost - Product 1,43367.34694,41198.97959,NA
+Company 4,Austin,Texas,June,Quarter-2,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,June,Quarter-2,Cost,Cost - Product 3,21683.67347,26020.40816,NA
+Company 4,Austin,Texas,July,Quarter-3,Cost,Cost - Product 1,43367.34694,41198.97959,NA
+Company 4,Austin,Texas,July,Quarter-3,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,July,Quarter-3,Cost,Cost - Product 3,21683.67347,16262.7551,NA
+Company 4,Austin,Texas,Aug,Quarter-3,Cost,Cost - Product 1,43367.34694,41198.97959,NA
+Company 4,Austin,Texas,Aug,Quarter-3,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,Aug,Quarter-3,Cost,Cost - Product 3,21683.67347,16262.7551,NA
+Company 4,Austin,Texas,Sept,Quarter-3,Cost,Cost - Product 1,43367.34694,73724.4898,NA
+Company 4,Austin,Texas,Sept,Quarter-3,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,Sept,Quarter-3,Cost,Cost - Product 3,21683.67347,16262.7551,NA
+Company 4,Austin,Texas,Oct,Quarter-4,Cost,Cost - Product 1,43367.34694,73724.4898,NA
+Company 4,Austin,Texas,Oct,Quarter-4,Cost,Cost - Product 2,21683.67347,8673.469388,NA
+Company 4,Austin,Texas,Oct,Quarter-4,Cost,Cost - Product 3,21683.67347,16262.7551,NA
+Company 4,Austin,Texas,Nov,Quarter-4,Cost,Cost - Product 1,43367.34694,73724.4898,NA
+Company 4,Austin,Texas,Nov,Quarter-4,Cost,Cost - Product 2,21683.67347,19515.30612,NA
+Company 4,Austin,Texas,Nov,Quarter-4,Cost,Cost - Product 3,21683.67347,16262.7551,NA
+Company 4,Austin,Texas,Dec,Quarter-4,Cost,Cost - Product 1,43367.34694,73724.4898,NA
+Company 4,Austin,Texas,Dec,Quarter-4,Cost,Cost - Product 2,21683.67347,19515.30612,NA
+Company 4,Austin,Texas,Dec,Quarter-4,Cost,Cost - Product 3,21683.67347,19515.30612,NA
+Company 5,Houston,Texas,Jan,Quarter-1,Cost,Cost - Product 1,51020.40816,61224.4898,NA
+Company 5,Houston,Texas,Jan,Quarter-1,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,Jan,Quarter-1,Cost,Cost - Product 3,25510.20408,21683.67347,NA
+Company 5,Houston,Texas,Feb,Quarter-1,Cost,Cost - Product 1,51020.40816,61224.4898,NA
+Company 5,Houston,Texas,Feb,Quarter-1,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,Feb,Quarter-1,Cost,Cost - Product 3,25510.20408,20408.16327,NA
+Company 5,Houston,Texas,Mar,Quarter-1,Cost,Cost - Product 1,51020.40816,61224.4898,NA
+Company 5,Houston,Texas,Mar,Quarter-1,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,Mar,Quarter-1,Cost,Cost - Product 3,25510.20408,21938.77551,NA
+Company 5,Houston,Texas,April,Quarter-2,Cost,Cost - Product 1,51020.40816,48469.38776,NA
+Company 5,Houston,Texas,April,Quarter-2,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,April,Quarter-2,Cost,Cost - Product 3,25510.20408,22959.18367,NA
+Company 5,Houston,Texas,May,Quarter-2,Cost,Cost - Product 1,51020.40816,48469.38776,NA
+Company 5,Houston,Texas,May,Quarter-2,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,May,Quarter-2,Cost,Cost - Product 3,25510.20408,28061.22449,NA
+Company 5,Houston,Texas,June,Quarter-2,Cost,Cost - Product 1,51020.40816,48469.38776,NA
+Company 5,Houston,Texas,June,Quarter-2,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,June,Quarter-2,Cost,Cost - Product 3,25510.20408,30612.2449,NA
+Company 5,Houston,Texas,July,Quarter-3,Cost,Cost - Product 1,51020.40816,48469.38776,NA
+Company 5,Houston,Texas,July,Quarter-3,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,July,Quarter-3,Cost,Cost - Product 3,25510.20408,19132.65306,NA
+Company 5,Houston,Texas,Aug,Quarter-3,Cost,Cost - Product 1,51020.40816,48469.38776,NA
+Company 5,Houston,Texas,Aug,Quarter-3,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,Aug,Quarter-3,Cost,Cost - Product 3,25510.20408,19132.65306,NA
+Company 5,Houston,Texas,Sept,Quarter-3,Cost,Cost - Product 1,51020.40816,86734.69388,NA
+Company 5,Houston,Texas,Sept,Quarter-3,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,Sept,Quarter-3,Cost,Cost - Product 3,25510.20408,19132.65306,NA
+Company 5,Houston,Texas,Oct,Quarter-4,Cost,Cost - Product 1,51020.40816,86734.69388,NA
+Company 5,Houston,Texas,Oct,Quarter-4,Cost,Cost - Product 2,25510.20408,10204.08163,NA
+Company 5,Houston,Texas,Oct,Quarter-4,Cost,Cost - Product 3,25510.20408,19132.65306,NA
+Company 5,Houston,Texas,Nov,Quarter-4,Cost,Cost - Product 1,51020.40816,86734.69388,NA
+Company 5,Houston,Texas,Nov,Quarter-4,Cost,Cost - Product 2,25510.20408,22959.18367,NA
+Company 5,Houston,Texas,Nov,Quarter-4,Cost,Cost - Product 3,25510.20408,19132.65306,NA
+Company 5,Houston,Texas,Dec,Quarter-4,Cost,Cost - Product 1,51020.40816,86734.69388,NA
+Company 5,Houston,Texas,Dec,Quarter-4,Cost,Cost - Product 2,25510.20408,22959.18367,NA
+Company 5,Houston,Texas,Dec,Quarter-4,Cost,Cost - Product 3,25510.20408,22959.18367,NA
+Company 6,Miami,Florida,Jan,Quarter-1,Cost,Cost - Product 1,124716.5533,149659.8639,NA
+Company 6,Miami,Florida,Jan,Quarter-1,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,Jan,Quarter-1,Cost,Cost - Product 3,62358.27664,53004.53515,NA
+Company 6,Miami,Florida,Feb,Quarter-1,Cost,Cost - Product 1,124716.5533,149659.8639,NA
+Company 6,Miami,Florida,Feb,Quarter-1,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,Feb,Quarter-1,Cost,Cost - Product 3,62358.27664,49886.62132,NA
+Company 6,Miami,Florida,Mar,Quarter-1,Cost,Cost - Product 1,124716.5533,149659.8639,NA
+Company 6,Miami,Florida,Mar,Quarter-1,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,Mar,Quarter-1,Cost,Cost - Product 3,62358.27664,53628.11791,NA
+Company 6,Miami,Florida,April,Quarter-2,Cost,Cost - Product 1,124716.5533,118480.7256,NA
+Company 6,Miami,Florida,April,Quarter-2,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,April,Quarter-2,Cost,Cost - Product 3,62358.27664,56122.44898,NA
+Company 6,Miami,Florida,May,Quarter-2,Cost,Cost - Product 1,124716.5533,118480.7256,NA
+Company 6,Miami,Florida,May,Quarter-2,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,May,Quarter-2,Cost,Cost - Product 3,62358.27664,68594.10431,NA
+Company 6,Miami,Florida,June,Quarter-2,Cost,Cost - Product 1,124716.5533,118480.7256,NA
+Company 6,Miami,Florida,June,Quarter-2,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,June,Quarter-2,Cost,Cost - Product 3,62358.27664,74829.93197,NA
+Company 6,Miami,Florida,July,Quarter-3,Cost,Cost - Product 1,124716.5533,118480.7256,NA
+Company 6,Miami,Florida,July,Quarter-3,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,July,Quarter-3,Cost,Cost - Product 3,62358.27664,46768.70748,NA
+Company 6,Miami,Florida,Aug,Quarter-3,Cost,Cost - Product 1,124716.5533,118480.7256,NA
+Company 6,Miami,Florida,Aug,Quarter-3,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,Aug,Quarter-3,Cost,Cost - Product 3,62358.27664,46768.70748,NA
+Company 6,Miami,Florida,Sept,Quarter-3,Cost,Cost - Product 1,124716.5533,212018.1406,NA
+Company 6,Miami,Florida,Sept,Quarter-3,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,Sept,Quarter-3,Cost,Cost - Product 3,62358.27664,46768.70748,NA
+Company 6,Miami,Florida,Oct,Quarter-4,Cost,Cost - Product 1,124716.5533,212018.1406,NA
+Company 6,Miami,Florida,Oct,Quarter-4,Cost,Cost - Product 2,62358.27664,24943.31066,NA
+Company 6,Miami,Florida,Oct,Quarter-4,Cost,Cost - Product 3,62358.27664,46768.70748,NA
+Company 6,Miami,Florida,Nov,Quarter-4,Cost,Cost - Product 1,124716.5533,212018.1406,NA
+Company 6,Miami,Florida,Nov,Quarter-4,Cost,Cost - Product 2,62358.27664,56122.44898,NA
+Company 6,Miami,Florida,Nov,Quarter-4,Cost,Cost - Product 3,62358.27664,46768.70748,NA
+Company 6,Miami,Florida,Dec,Quarter-4,Cost,Cost - Product 1,124716.5533,212018.1406,NA
+Company 6,Miami,Florida,Dec,Quarter-4,Cost,Cost - Product 2,62358.27664,56122.44898,NA
+Company 6,Miami,Florida,Dec,Quarter-4,Cost,Cost - Product 3,62358.27664,56122.44898,NA
+Company 7,Tampa,Florida,Jan,Quarter-1,Cost,Cost - Product 1,42517.0068,51020.40816,NA
+Company 7,Tampa,Florida,Jan,Quarter-1,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,Jan,Quarter-1,Cost,Cost - Product 3,21258.5034,18069.72789,NA
+Company 7,Tampa,Florida,Feb,Quarter-1,Cost,Cost - Product 1,42517.0068,51020.40816,NA
+Company 7,Tampa,Florida,Feb,Quarter-1,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,Feb,Quarter-1,Cost,Cost - Product 3,21258.5034,17006.80272,NA
+Company 7,Tampa,Florida,Mar,Quarter-1,Cost,Cost - Product 1,42517.0068,51020.40816,NA
+Company 7,Tampa,Florida,Mar,Quarter-1,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,Mar,Quarter-1,Cost,Cost - Product 3,21258.5034,18282.31293,NA
+Company 7,Tampa,Florida,April,Quarter-2,Cost,Cost - Product 1,42517.0068,40391.15646,NA
+Company 7,Tampa,Florida,April,Quarter-2,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,April,Quarter-2,Cost,Cost - Product 3,21258.5034,19132.65306,NA
+Company 7,Tampa,Florida,May,Quarter-2,Cost,Cost - Product 1,42517.0068,40391.15646,NA
+Company 7,Tampa,Florida,May,Quarter-2,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,May,Quarter-2,Cost,Cost - Product 3,21258.5034,23384.35374,NA
+Company 7,Tampa,Florida,June,Quarter-2,Cost,Cost - Product 1,42517.0068,40391.15646,NA
+Company 7,Tampa,Florida,June,Quarter-2,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,June,Quarter-2,Cost,Cost - Product 3,21258.5034,25510.20408,NA
+Company 7,Tampa,Florida,July,Quarter-3,Cost,Cost - Product 1,42517.0068,40391.15646,NA
+Company 7,Tampa,Florida,July,Quarter-3,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,July,Quarter-3,Cost,Cost - Product 3,21258.5034,15943.87755,NA
+Company 7,Tampa,Florida,Aug,Quarter-3,Cost,Cost - Product 1,42517.0068,40391.15646,NA
+Company 7,Tampa,Florida,Aug,Quarter-3,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,Aug,Quarter-3,Cost,Cost - Product 3,21258.5034,15943.87755,NA
+Company 7,Tampa,Florida,Sept,Quarter-3,Cost,Cost - Product 1,42517.0068,72278.91156,NA
+Company 7,Tampa,Florida,Sept,Quarter-3,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,Sept,Quarter-3,Cost,Cost - Product 3,21258.5034,15943.87755,NA
+Company 7,Tampa,Florida,Oct,Quarter-4,Cost,Cost - Product 1,42517.0068,72278.91156,NA
+Company 7,Tampa,Florida,Oct,Quarter-4,Cost,Cost - Product 2,21258.5034,8503.401361,NA
+Company 7,Tampa,Florida,Oct,Quarter-4,Cost,Cost - Product 3,21258.5034,15943.87755,NA
+Company 7,Tampa,Florida,Nov,Quarter-4,Cost,Cost - Product 1,42517.0068,72278.91156,NA
+Company 7,Tampa,Florida,Nov,Quarter-4,Cost,Cost - Product 2,21258.5034,19132.65306,NA
+Company 7,Tampa,Florida,Nov,Quarter-4,Cost,Cost - Product 3,21258.5034,15943.87755,NA
+Company 7,Tampa,Florida,Dec,Quarter-4,Cost,Cost - Product 1,42517.0068,72278.91156,NA
+Company 7,Tampa,Florida,Dec,Quarter-4,Cost,Cost - Product 2,21258.5034,19132.65306,NA
+Company 7,Tampa,Florida,Dec,Quarter-4,Cost,Cost - Product 3,21258.5034,19132.65306,NA
+Company 8,Denver,Colorado,Jan,Quarter-1,Cost,Cost - Product 1,7709.750567,9251.70068,NA
+Company 8,Denver,Colorado,Jan,Quarter-1,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,Jan,Quarter-1,Cost,Cost - Product 3,3854.875283,3276.643991,NA
+Company 8,Denver,Colorado,Feb,Quarter-1,Cost,Cost - Product 1,7709.750567,9251.70068,NA
+Company 8,Denver,Colorado,Feb,Quarter-1,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,Feb,Quarter-1,Cost,Cost - Product 3,3854.875283,3083.900227,NA
+Company 8,Denver,Colorado,Mar,Quarter-1,Cost,Cost - Product 1,7709.750567,9251.70068,NA
+Company 8,Denver,Colorado,Mar,Quarter-1,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,Mar,Quarter-1,Cost,Cost - Product 3,3854.875283,3315.192744,NA
+Company 8,Denver,Colorado,April,Quarter-2,Cost,Cost - Product 1,7709.750567,7324.263039,NA
+Company 8,Denver,Colorado,April,Quarter-2,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,April,Quarter-2,Cost,Cost - Product 3,3854.875283,3469.387755,NA
+Company 8,Denver,Colorado,May,Quarter-2,Cost,Cost - Product 1,7709.750567,7324.263039,NA
+Company 8,Denver,Colorado,May,Quarter-2,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,May,Quarter-2,Cost,Cost - Product 3,3854.875283,4240.362812,NA
+Company 8,Denver,Colorado,June,Quarter-2,Cost,Cost - Product 1,7709.750567,7324.263039,NA
+Company 8,Denver,Colorado,June,Quarter-2,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,June,Quarter-2,Cost,Cost - Product 3,3854.875283,4625.85034,NA
+Company 8,Denver,Colorado,July,Quarter-3,Cost,Cost - Product 1,7709.750567,7324.263039,NA
+Company 8,Denver,Colorado,July,Quarter-3,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,July,Quarter-3,Cost,Cost - Product 3,3854.875283,2891.156463,NA
+Company 8,Denver,Colorado,Aug,Quarter-3,Cost,Cost - Product 1,7709.750567,7324.263039,NA
+Company 8,Denver,Colorado,Aug,Quarter-3,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,Aug,Quarter-3,Cost,Cost - Product 3,3854.875283,2891.156463,NA
+Company 8,Denver,Colorado,Sept,Quarter-3,Cost,Cost - Product 1,7709.750567,13106.57596,NA
+Company 8,Denver,Colorado,Sept,Quarter-3,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,Sept,Quarter-3,Cost,Cost - Product 3,3854.875283,2891.156463,NA
+Company 8,Denver,Colorado,Oct,Quarter-4,Cost,Cost - Product 1,7709.750567,13106.57596,NA
+Company 8,Denver,Colorado,Oct,Quarter-4,Cost,Cost - Product 2,3854.875283,1541.950113,NA
+Company 8,Denver,Colorado,Oct,Quarter-4,Cost,Cost - Product 3,3854.875283,2891.156463,NA
+Company 8,Denver,Colorado,Nov,Quarter-4,Cost,Cost - Product 1,7709.750567,13106.57596,NA
+Company 8,Denver,Colorado,Nov,Quarter-4,Cost,Cost - Product 2,3854.875283,3469.387755,NA
+Company 8,Denver,Colorado,Nov,Quarter-4,Cost,Cost - Product 3,3854.875283,2891.156463,NA
+Company 8,Denver,Colorado,Dec,Quarter-4,Cost,Cost - Product 1,7709.750567,13106.57596,NA
+Company 8,Denver,Colorado,Dec,Quarter-4,Cost,Cost - Product 2,3854.875283,3469.387755,NA
+Company 8,Denver,Colorado,Dec,Quarter-4,Cost,Cost - Product 3,3854.875283,3469.387755,NA
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Cost,Cost - Product 1,49886.62132,59863.94558,NA
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Cost,Cost - Product 3,24943.31066,21201.81406,NA
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Cost,Cost - Product 1,49886.62132,59863.94558,NA
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Cost,Cost - Product 3,24943.31066,19954.64853,NA
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Cost,Cost - Product 1,49886.62132,59863.94558,NA
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Cost,Cost - Product 3,24943.31066,21451.24717,NA
+Company 9,Phoenix,Arizona,April,Quarter-2,Cost,Cost - Product 1,49886.62132,47392.29025,NA
+Company 9,Phoenix,Arizona,April,Quarter-2,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,April,Quarter-2,Cost,Cost - Product 3,24943.31066,22448.97959,NA
+Company 9,Phoenix,Arizona,May,Quarter-2,Cost,Cost - Product 1,49886.62132,47392.29025,NA
+Company 9,Phoenix,Arizona,May,Quarter-2,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,May,Quarter-2,Cost,Cost - Product 3,24943.31066,27437.64172,NA
+Company 9,Phoenix,Arizona,June,Quarter-2,Cost,Cost - Product 1,49886.62132,47392.29025,NA
+Company 9,Phoenix,Arizona,June,Quarter-2,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,June,Quarter-2,Cost,Cost - Product 3,24943.31066,29931.97279,NA
+Company 9,Phoenix,Arizona,July,Quarter-3,Cost,Cost - Product 1,49886.62132,47392.29025,NA
+Company 9,Phoenix,Arizona,July,Quarter-3,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,July,Quarter-3,Cost,Cost - Product 3,24943.31066,18707.48299,NA
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Cost,Cost - Product 1,49886.62132,47392.29025,NA
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Cost,Cost - Product 3,24943.31066,18707.48299,NA
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Cost,Cost - Product 1,49886.62132,84807.25624,NA
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Cost,Cost - Product 3,24943.31066,18707.48299,NA
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Cost,Cost - Product 1,49886.62132,84807.25624,NA
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Cost,Cost - Product 2,24943.31066,9977.324263,NA
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Cost,Cost - Product 3,24943.31066,18707.48299,NA
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Cost,Cost - Product 1,49886.62132,84807.25624,NA
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Cost,Cost - Product 2,24943.31066,22448.97959,NA
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Cost,Cost - Product 3,24943.31066,18707.48299,NA
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Cost,Cost - Product 1,49886.62132,84807.25624,NA
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Cost,Cost - Product 2,24943.31066,22448.97959,NA
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Cost,Cost - Product 3,24943.31066,22448.97959,NA
+Company 10,Tucson,Arizona,Jan,Quarter-1,Cost,Cost - Product 1,55782.31293,66938.77551,NA
+Company 10,Tucson,Arizona,Jan,Quarter-1,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,Jan,Quarter-1,Cost,Cost - Product 3,27891.15646,23707.48299,NA
+Company 10,Tucson,Arizona,Feb,Quarter-1,Cost,Cost - Product 1,55782.31293,66938.77551,NA
+Company 10,Tucson,Arizona,Feb,Quarter-1,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,Feb,Quarter-1,Cost,Cost - Product 3,27891.15646,22312.92517,NA
+Company 10,Tucson,Arizona,Mar,Quarter-1,Cost,Cost - Product 1,55782.31293,66938.77551,NA
+Company 10,Tucson,Arizona,Mar,Quarter-1,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,Mar,Quarter-1,Cost,Cost - Product 3,27891.15646,23986.39456,NA
+Company 10,Tucson,Arizona,April,Quarter-2,Cost,Cost - Product 1,55782.31293,52993.19728,NA
+Company 10,Tucson,Arizona,April,Quarter-2,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,April,Quarter-2,Cost,Cost - Product 3,27891.15646,25102.04082,NA
+Company 10,Tucson,Arizona,May,Quarter-2,Cost,Cost - Product 1,55782.31293,52993.19728,NA
+Company 10,Tucson,Arizona,May,Quarter-2,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,May,Quarter-2,Cost,Cost - Product 3,27891.15646,30680.27211,NA
+Company 10,Tucson,Arizona,June,Quarter-2,Cost,Cost - Product 1,55782.31293,52993.19728,NA
+Company 10,Tucson,Arizona,June,Quarter-2,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,June,Quarter-2,Cost,Cost - Product 3,27891.15646,33469.38776,NA
+Company 10,Tucson,Arizona,July,Quarter-3,Cost,Cost - Product 1,55782.31293,52993.19728,NA
+Company 10,Tucson,Arizona,July,Quarter-3,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,July,Quarter-3,Cost,Cost - Product 3,27891.15646,20918.36735,NA
+Company 10,Tucson,Arizona,Aug,Quarter-3,Cost,Cost - Product 1,55782.31293,52993.19728,NA
+Company 10,Tucson,Arizona,Aug,Quarter-3,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,Aug,Quarter-3,Cost,Cost - Product 3,27891.15646,20918.36735,NA
+Company 10,Tucson,Arizona,Sept,Quarter-3,Cost,Cost - Product 1,55782.31293,94829.93197,NA
+Company 10,Tucson,Arizona,Sept,Quarter-3,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,Sept,Quarter-3,Cost,Cost - Product 3,27891.15646,20918.36735,NA
+Company 10,Tucson,Arizona,Oct,Quarter-4,Cost,Cost - Product 1,55782.31293,94829.93197,NA
+Company 10,Tucson,Arizona,Oct,Quarter-4,Cost,Cost - Product 2,27891.15646,11156.46259,NA
+Company 10,Tucson,Arizona,Oct,Quarter-4,Cost,Cost - Product 3,27891.15646,20918.36735,NA
+Company 10,Tucson,Arizona,Nov,Quarter-4,Cost,Cost - Product 1,55782.31293,94829.93197,NA
+Company 10,Tucson,Arizona,Nov,Quarter-4,Cost,Cost - Product 2,27891.15646,25102.04082,NA
+Company 10,Tucson,Arizona,Nov,Quarter-4,Cost,Cost - Product 3,27891.15646,20918.36735,NA
+Company 10,Tucson,Arizona,Dec,Quarter-4,Cost,Cost - Product 1,55782.31293,94829.93197,NA
+Company 10,Tucson,Arizona,Dec,Quarter-4,Cost,Cost - Product 2,27891.15646,25102.04082,NA
+Company 10,Tucson,Arizona,Dec,Quarter-4,Cost,Cost - Product 3,27891.15646,25102.04082,NA
+Company 11,New York,New York,Jan,Quarter-1,Cost,Cost - Product 1,57936.50794,69523.80952,NA
+Company 11,New York,New York,Jan,Quarter-1,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,Jan,Quarter-1,Cost,Cost - Product 3,28968.25397,24623.01587,NA
+Company 11,New York,New York,Feb,Quarter-1,Cost,Cost - Product 1,57936.50794,69523.80952,NA
+Company 11,New York,New York,Feb,Quarter-1,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,Feb,Quarter-1,Cost,Cost - Product 3,28968.25397,23174.60317,NA
+Company 11,New York,New York,Mar,Quarter-1,Cost,Cost - Product 1,57936.50794,69523.80952,NA
+Company 11,New York,New York,Mar,Quarter-1,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,Mar,Quarter-1,Cost,Cost - Product 3,28968.25397,24912.69841,NA
+Company 11,New York,New York,April,Quarter-2,Cost,Cost - Product 1,57936.50794,55039.68254,NA
+Company 11,New York,New York,April,Quarter-2,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,April,Quarter-2,Cost,Cost - Product 3,28968.25397,26071.42857,NA
+Company 11,New York,New York,May,Quarter-2,Cost,Cost - Product 1,57936.50794,55039.68254,NA
+Company 11,New York,New York,May,Quarter-2,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,May,Quarter-2,Cost,Cost - Product 3,28968.25397,31865.07937,NA
+Company 11,New York,New York,June,Quarter-2,Cost,Cost - Product 1,57936.50794,55039.68254,NA
+Company 11,New York,New York,June,Quarter-2,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,June,Quarter-2,Cost,Cost - Product 3,28968.25397,34761.90476,NA
+Company 11,New York,New York,July,Quarter-3,Cost,Cost - Product 1,57936.50794,55039.68254,NA
+Company 11,New York,New York,July,Quarter-3,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,July,Quarter-3,Cost,Cost - Product 3,28968.25397,21726.19048,NA
+Company 11,New York,New York,Aug,Quarter-3,Cost,Cost - Product 1,57936.50794,55039.68254,NA
+Company 11,New York,New York,Aug,Quarter-3,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,Aug,Quarter-3,Cost,Cost - Product 3,28968.25397,21726.19048,NA
+Company 11,New York,New York,Sept,Quarter-3,Cost,Cost - Product 1,57936.50794,98492.06349,NA
+Company 11,New York,New York,Sept,Quarter-3,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,Sept,Quarter-3,Cost,Cost - Product 3,28968.25397,21726.19048,NA
+Company 11,New York,New York,Oct,Quarter-4,Cost,Cost - Product 1,57936.50794,98492.06349,NA
+Company 11,New York,New York,Oct,Quarter-4,Cost,Cost - Product 2,28968.25397,11587.30159,NA
+Company 11,New York,New York,Oct,Quarter-4,Cost,Cost - Product 3,28968.25397,21726.19048,NA
+Company 11,New York,New York,Nov,Quarter-4,Cost,Cost - Product 1,57936.50794,98492.06349,NA
+Company 11,New York,New York,Nov,Quarter-4,Cost,Cost - Product 2,28968.25397,26071.42857,NA
+Company 11,New York,New York,Nov,Quarter-4,Cost,Cost - Product 3,28968.25397,21726.19048,NA
+Company 11,New York,New York,Dec,Quarter-4,Cost,Cost - Product 1,57936.50794,98492.06349,NA
+Company 11,New York,New York,Dec,Quarter-4,Cost,Cost - Product 2,28968.25397,26071.42857,NA
+Company 11,New York,New York,Dec,Quarter-4,Cost,Cost - Product 3,28968.25397,26071.42857,NA
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Cost,Cost - Product 1,59523.80952,71428.57143,NA
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Cost,Cost - Product 3,29761.90476,25297.61905,NA
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Cost,Cost - Product 1,59523.80952,71428.57143,NA
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Cost,Cost - Product 3,29761.90476,23809.52381,NA
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Cost,Cost - Product 1,59523.80952,71428.57143,NA
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Cost,Cost - Product 3,29761.90476,25595.2381,NA
+Company 12,Omaha,Nebraska,April,Quarter-2,Cost,Cost - Product 1,59523.80952,56547.61905,NA
+Company 12,Omaha,Nebraska,April,Quarter-2,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,April,Quarter-2,Cost,Cost - Product 3,29761.90476,26785.71429,NA
+Company 12,Omaha,Nebraska,May,Quarter-2,Cost,Cost - Product 1,59523.80952,56547.61905,NA
+Company 12,Omaha,Nebraska,May,Quarter-2,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,May,Quarter-2,Cost,Cost - Product 3,29761.90476,32738.09524,NA
+Company 12,Omaha,Nebraska,June,Quarter-2,Cost,Cost - Product 1,59523.80952,56547.61905,NA
+Company 12,Omaha,Nebraska,June,Quarter-2,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,June,Quarter-2,Cost,Cost - Product 3,29761.90476,35714.28571,NA
+Company 12,Omaha,Nebraska,July,Quarter-3,Cost,Cost - Product 1,59523.80952,56547.61905,NA
+Company 12,Omaha,Nebraska,July,Quarter-3,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,July,Quarter-3,Cost,Cost - Product 3,29761.90476,22321.42857,NA
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Cost,Cost - Product 1,59523.80952,56547.61905,NA
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Cost,Cost - Product 3,29761.90476,22321.42857,NA
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Cost,Cost - Product 1,59523.80952,101190.4762,NA
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Cost,Cost - Product 3,29761.90476,22321.42857,NA
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Cost,Cost - Product 1,59523.80952,101190.4762,NA
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Cost,Cost - Product 2,29761.90476,11904.7619,NA
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Cost,Cost - Product 3,29761.90476,22321.42857,NA
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Cost,Cost - Product 1,59523.80952,101190.4762,NA
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Cost,Cost - Product 2,29761.90476,26785.71429,NA
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Cost,Cost - Product 3,29761.90476,22321.42857,NA
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Cost,Cost - Product 1,59523.80952,101190.4762,NA
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Cost,Cost - Product 2,29761.90476,26785.71429,NA
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Cost,Cost - Product 3,29761.90476,26785.71429,NA
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Cost,Cost - Product 1,59750.56689,71700.68027,NA
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Cost,Cost - Product 3,29875.28345,25393.99093,NA
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Cost,Cost - Product 1,59750.56689,71700.68027,NA
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Cost,Cost - Product 3,29875.28345,23900.22676,NA
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Cost,Cost - Product 1,59750.56689,71700.68027,NA
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Cost,Cost - Product 3,29875.28345,25692.74376,NA
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Cost,Cost - Product 1,59750.56689,56763.03855,NA
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Cost,Cost - Product 3,29875.28345,26887.7551,NA
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Cost,Cost - Product 1,59750.56689,56763.03855,NA
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Cost,Cost - Product 3,29875.28345,32862.81179,NA
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Cost,Cost - Product 1,59750.56689,56763.03855,NA
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Cost,Cost - Product 3,29875.28345,35850.34014,NA
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Cost,Cost - Product 1,59750.56689,56763.03855,NA
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Cost,Cost - Product 3,29875.28345,22406.46259,NA
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Cost,Cost - Product 1,59750.56689,56763.03855,NA
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Cost,Cost - Product 3,29875.28345,22406.46259,NA
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Cost,Cost - Product 1,59750.56689,101575.9637,NA
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Cost,Cost - Product 3,29875.28345,22406.46259,NA
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Cost,Cost - Product 1,59750.56689,101575.9637,NA
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Cost,Cost - Product 2,29875.28345,11950.11338,NA
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Cost,Cost - Product 3,29875.28345,22406.46259,NA
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Cost,Cost - Product 1,59750.56689,101575.9637,NA
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Cost,Cost - Product 2,29875.28345,26887.7551,NA
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Cost,Cost - Product 3,29875.28345,22406.46259,NA
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Cost,Cost - Product 1,59750.56689,101575.9637,NA
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Cost,Cost - Product 2,29875.28345,26887.7551,NA
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Cost,Cost - Product 3,29875.28345,26887.7551,NA
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Cost,Cost - Product 1,14739.22902,17687.07483,NA
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Cost,Cost - Product 3,7369.614512,6264.172336,NA
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Cost,Cost - Product 1,14739.22902,17687.07483,NA
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Cost,Cost - Product 3,7369.614512,5895.69161,NA
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Cost,Cost - Product 1,14739.22902,17687.07483,NA
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Cost,Cost - Product 3,7369.614512,6337.868481,NA
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Cost,Cost - Product 1,14739.22902,14002.26757,NA
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Cost,Cost - Product 3,7369.614512,6632.653061,NA
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Cost,Cost - Product 1,14739.22902,14002.26757,NA
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Cost,Cost - Product 3,7369.614512,8106.575964,NA
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Cost,Cost - Product 1,14739.22902,14002.26757,NA
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Cost,Cost - Product 3,7369.614512,8843.537415,NA
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Cost,Cost - Product 1,14739.22902,14002.26757,NA
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Cost,Cost - Product 3,7369.614512,5527.210884,NA
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Cost,Cost - Product 1,14739.22902,14002.26757,NA
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Cost,Cost - Product 3,7369.614512,5527.210884,NA
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Cost,Cost - Product 1,14739.22902,25056.68934,NA
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Cost,Cost - Product 3,7369.614512,5527.210884,NA
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Cost,Cost - Product 1,14739.22902,25056.68934,NA
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Cost,Cost - Product 2,7369.614512,2947.845805,NA
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Cost,Cost - Product 3,7369.614512,5527.210884,NA
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Cost,Cost - Product 1,14739.22902,25056.68934,NA
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Cost,Cost - Product 2,7369.614512,6632.653061,NA
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Cost,Cost - Product 3,7369.614512,5527.210884,NA
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Cost,Cost - Product 1,14739.22902,25056.68934,NA
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Cost,Cost - Product 2,7369.614512,6632.653061,NA
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Cost,Cost - Product 3,7369.614512,6632.653061,NA
+Company 1,San Francisco,California,Jan,Quarter-1,Profit,Profit - Product 1,9920.634921,11904.7619,NA
+Company 1,San Francisco,California,Jan,Quarter-1,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,Jan,Quarter-1,Profit,Profit - Product 3,4960.31746,4216.269841,NA
+Company 1,San Francisco,California,Feb,Quarter-1,Profit,Profit - Product 1,9920.634921,11904.7619,NA
+Company 1,San Francisco,California,Feb,Quarter-1,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,Feb,Quarter-1,Profit,Profit - Product 3,4960.31746,3968.253968,NA
+Company 1,San Francisco,California,Mar,Quarter-1,Profit,Profit - Product 1,9920.634921,11904.7619,NA
+Company 1,San Francisco,California,Mar,Quarter-1,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,Mar,Quarter-1,Profit,Profit - Product 3,4960.31746,4265.873016,NA
+Company 1,San Francisco,California,April,Quarter-2,Profit,Profit - Product 1,9920.634921,9424.603175,NA
+Company 1,San Francisco,California,April,Quarter-2,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,April,Quarter-2,Profit,Profit - Product 3,4960.31746,4464.285714,NA
+Company 1,San Francisco,California,May,Quarter-2,Profit,Profit - Product 1,9920.634921,9424.603175,NA
+Company 1,San Francisco,California,May,Quarter-2,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,May,Quarter-2,Profit,Profit - Product 3,4960.31746,5456.349206,NA
+Company 1,San Francisco,California,June,Quarter-2,Profit,Profit - Product 1,9920.634921,9424.603175,NA
+Company 1,San Francisco,California,June,Quarter-2,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,June,Quarter-2,Profit,Profit - Product 3,4960.31746,5952.380952,NA
+Company 1,San Francisco,California,July,Quarter-3,Profit,Profit - Product 1,9920.634921,9424.603175,NA
+Company 1,San Francisco,California,July,Quarter-3,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,July,Quarter-3,Profit,Profit - Product 3,4960.31746,3720.238095,NA
+Company 1,San Francisco,California,Aug,Quarter-3,Profit,Profit - Product 1,9920.634921,9424.603175,NA
+Company 1,San Francisco,California,Aug,Quarter-3,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,Aug,Quarter-3,Profit,Profit - Product 3,4960.31746,3720.238095,NA
+Company 1,San Francisco,California,Sept,Quarter-3,Profit,Profit - Product 1,9920.634921,16865.07937,NA
+Company 1,San Francisco,California,Sept,Quarter-3,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,Sept,Quarter-3,Profit,Profit - Product 3,4960.31746,3720.238095,NA
+Company 1,San Francisco,California,Oct,Quarter-4,Profit,Profit - Product 1,9920.634921,16865.07937,NA
+Company 1,San Francisco,California,Oct,Quarter-4,Profit,Profit - Product 2,4960.31746,1984.126984,NA
+Company 1,San Francisco,California,Oct,Quarter-4,Profit,Profit - Product 3,4960.31746,3720.238095,NA
+Company 1,San Francisco,California,Nov,Quarter-4,Profit,Profit - Product 1,9920.634921,16865.07937,NA
+Company 1,San Francisco,California,Nov,Quarter-4,Profit,Profit - Product 2,4960.31746,4464.285714,NA
+Company 1,San Francisco,California,Nov,Quarter-4,Profit,Profit - Product 3,4960.31746,3720.238095,NA
+Company 1,San Francisco,California,Dec,Quarter-4,Profit,Profit - Product 1,9920.634921,16865.07937,NA
+Company 1,San Francisco,California,Dec,Quarter-4,Profit,Profit - Product 2,4960.31746,4464.285714,NA
+Company 1,San Francisco,California,Dec,Quarter-4,Profit,Profit - Product 3,4960.31746,4464.285714,NA
+Company 2,Culver City,California,Jan,Quarter-1,Profit,Profit - Product 1,11337.86848,13605.44218,NA
+Company 2,Culver City,California,Jan,Quarter-1,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,Jan,Quarter-1,Profit,Profit - Product 3,5668.93424,4818.594104,NA
+Company 2,Culver City,California,Feb,Quarter-1,Profit,Profit - Product 1,11337.86848,13605.44218,NA
+Company 2,Culver City,California,Feb,Quarter-1,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,Feb,Quarter-1,Profit,Profit - Product 3,5668.93424,4535.147392,NA
+Company 2,Culver City,California,Mar,Quarter-1,Profit,Profit - Product 1,11337.86848,13605.44218,NA
+Company 2,Culver City,California,Mar,Quarter-1,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,Mar,Quarter-1,Profit,Profit - Product 3,5668.93424,4875.283447,NA
+Company 2,Culver City,California,April,Quarter-2,Profit,Profit - Product 1,11337.86848,10770.97506,NA
+Company 2,Culver City,California,April,Quarter-2,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,April,Quarter-2,Profit,Profit - Product 3,5668.93424,5102.040816,NA
+Company 2,Culver City,California,May,Quarter-2,Profit,Profit - Product 1,11337.86848,10770.97506,NA
+Company 2,Culver City,California,May,Quarter-2,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,May,Quarter-2,Profit,Profit - Product 3,5668.93424,6235.827664,NA
+Company 2,Culver City,California,June,Quarter-2,Profit,Profit - Product 1,11337.86848,10770.97506,NA
+Company 2,Culver City,California,June,Quarter-2,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,June,Quarter-2,Profit,Profit - Product 3,5668.93424,6802.721088,NA
+Company 2,Culver City,California,July,Quarter-3,Profit,Profit - Product 1,11337.86848,10770.97506,NA
+Company 2,Culver City,California,July,Quarter-3,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,July,Quarter-3,Profit,Profit - Product 3,5668.93424,4251.70068,NA
+Company 2,Culver City,California,Aug,Quarter-3,Profit,Profit - Product 1,11337.86848,10770.97506,NA
+Company 2,Culver City,California,Aug,Quarter-3,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,Aug,Quarter-3,Profit,Profit - Product 3,5668.93424,4251.70068,NA
+Company 2,Culver City,California,Sept,Quarter-3,Profit,Profit - Product 1,11337.86848,19274.37642,NA
+Company 2,Culver City,California,Sept,Quarter-3,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,Sept,Quarter-3,Profit,Profit - Product 3,5668.93424,4251.70068,NA
+Company 2,Culver City,California,Oct,Quarter-4,Profit,Profit - Product 1,11337.86848,19274.37642,NA
+Company 2,Culver City,California,Oct,Quarter-4,Profit,Profit - Product 2,5668.93424,2267.573696,NA
+Company 2,Culver City,California,Oct,Quarter-4,Profit,Profit - Product 3,5668.93424,4251.70068,NA
+Company 2,Culver City,California,Nov,Quarter-4,Profit,Profit - Product 1,11337.86848,19274.37642,NA
+Company 2,Culver City,California,Nov,Quarter-4,Profit,Profit - Product 2,5668.93424,5102.040816,NA
+Company 2,Culver City,California,Nov,Quarter-4,Profit,Profit - Product 3,5668.93424,4251.70068,NA
+Company 2,Culver City,California,Dec,Quarter-4,Profit,Profit - Product 1,11337.86848,19274.37642,NA
+Company 2,Culver City,California,Dec,Quarter-4,Profit,Profit - Product 2,5668.93424,5102.040816,NA
+Company 2,Culver City,California,Dec,Quarter-4,Profit,Profit - Product 3,5668.93424,5102.040816,NA
+Company 3,Cupertino,California,Jan,Quarter-1,Profit,Profit - Product 1,2210.884354,2653.061224,NA
+Company 3,Cupertino,California,Jan,Quarter-1,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,Jan,Quarter-1,Profit,Profit - Product 3,1105.442177,939.6258503,NA
+Company 3,Cupertino,California,Feb,Quarter-1,Profit,Profit - Product 1,2210.884354,2653.061224,NA
+Company 3,Cupertino,California,Feb,Quarter-1,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,Feb,Quarter-1,Profit,Profit - Product 3,1105.442177,884.3537415,NA
+Company 3,Cupertino,California,Mar,Quarter-1,Profit,Profit - Product 1,2210.884354,2653.061224,NA
+Company 3,Cupertino,California,Mar,Quarter-1,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,Mar,Quarter-1,Profit,Profit - Product 3,1105.442177,950.6802721,NA
+Company 3,Cupertino,California,April,Quarter-2,Profit,Profit - Product 1,2210.884354,2100.340136,NA
+Company 3,Cupertino,California,April,Quarter-2,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,April,Quarter-2,Profit,Profit - Product 3,1105.442177,994.8979592,NA
+Company 3,Cupertino,California,May,Quarter-2,Profit,Profit - Product 1,2210.884354,2100.340136,NA
+Company 3,Cupertino,California,May,Quarter-2,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,May,Quarter-2,Profit,Profit - Product 3,1105.442177,1215.986395,NA
+Company 3,Cupertino,California,June,Quarter-2,Profit,Profit - Product 1,2210.884354,2100.340136,NA
+Company 3,Cupertino,California,June,Quarter-2,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,June,Quarter-2,Profit,Profit - Product 3,1105.442177,1326.530612,NA
+Company 3,Cupertino,California,July,Quarter-3,Profit,Profit - Product 1,2210.884354,2100.340136,NA
+Company 3,Cupertino,California,July,Quarter-3,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,July,Quarter-3,Profit,Profit - Product 3,1105.442177,829.0816327,NA
+Company 3,Cupertino,California,Aug,Quarter-3,Profit,Profit - Product 1,2210.884354,2100.340136,NA
+Company 3,Cupertino,California,Aug,Quarter-3,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,Aug,Quarter-3,Profit,Profit - Product 3,1105.442177,829.0816327,NA
+Company 3,Cupertino,California,Sept,Quarter-3,Profit,Profit - Product 1,2210.884354,3758.503401,NA
+Company 3,Cupertino,California,Sept,Quarter-3,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,Sept,Quarter-3,Profit,Profit - Product 3,1105.442177,829.0816327,NA
+Company 3,Cupertino,California,Oct,Quarter-4,Profit,Profit - Product 1,2210.884354,3758.503401,NA
+Company 3,Cupertino,California,Oct,Quarter-4,Profit,Profit - Product 2,1105.442177,442.1768707,NA
+Company 3,Cupertino,California,Oct,Quarter-4,Profit,Profit - Product 3,1105.442177,829.0816327,NA
+Company 3,Cupertino,California,Nov,Quarter-4,Profit,Profit - Product 1,2210.884354,3758.503401,NA
+Company 3,Cupertino,California,Nov,Quarter-4,Profit,Profit - Product 2,1105.442177,994.8979592,NA
+Company 3,Cupertino,California,Nov,Quarter-4,Profit,Profit - Product 3,1105.442177,829.0816327,NA
+Company 3,Cupertino,California,Dec,Quarter-4,Profit,Profit - Product 1,2210.884354,3758.503401,NA
+Company 3,Cupertino,California,Dec,Quarter-4,Profit,Profit - Product 2,1105.442177,994.8979592,NA
+Company 3,Cupertino,California,Dec,Quarter-4,Profit,Profit - Product 3,1105.442177,994.8979592,NA
+Company 4,Austin,Texas,Jan,Quarter-1,Profit,Profit - Product 1,7653.061224,9183.673469,NA
+Company 4,Austin,Texas,Jan,Quarter-1,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,Jan,Quarter-1,Profit,Profit - Product 3,3826.530612,3252.55102,NA
+Company 4,Austin,Texas,Feb,Quarter-1,Profit,Profit - Product 1,7653.061224,9183.673469,NA
+Company 4,Austin,Texas,Feb,Quarter-1,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,Feb,Quarter-1,Profit,Profit - Product 3,3826.530612,3061.22449,NA
+Company 4,Austin,Texas,Mar,Quarter-1,Profit,Profit - Product 1,7653.061224,9183.673469,NA
+Company 4,Austin,Texas,Mar,Quarter-1,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,Mar,Quarter-1,Profit,Profit - Product 3,3826.530612,3290.816327,NA
+Company 4,Austin,Texas,April,Quarter-2,Profit,Profit - Product 1,7653.061224,7270.408163,NA
+Company 4,Austin,Texas,April,Quarter-2,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,April,Quarter-2,Profit,Profit - Product 3,3826.530612,3443.877551,NA
+Company 4,Austin,Texas,May,Quarter-2,Profit,Profit - Product 1,7653.061224,7270.408163,NA
+Company 4,Austin,Texas,May,Quarter-2,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,May,Quarter-2,Profit,Profit - Product 3,3826.530612,4209.183673,NA
+Company 4,Austin,Texas,June,Quarter-2,Profit,Profit - Product 1,7653.061224,7270.408163,NA
+Company 4,Austin,Texas,June,Quarter-2,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,June,Quarter-2,Profit,Profit - Product 3,3826.530612,4591.836735,NA
+Company 4,Austin,Texas,July,Quarter-3,Profit,Profit - Product 1,7653.061224,7270.408163,NA
+Company 4,Austin,Texas,July,Quarter-3,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,July,Quarter-3,Profit,Profit - Product 3,3826.530612,2869.897959,NA
+Company 4,Austin,Texas,Aug,Quarter-3,Profit,Profit - Product 1,7653.061224,7270.408163,NA
+Company 4,Austin,Texas,Aug,Quarter-3,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,Aug,Quarter-3,Profit,Profit - Product 3,3826.530612,2869.897959,NA
+Company 4,Austin,Texas,Sept,Quarter-3,Profit,Profit - Product 1,7653.061224,13010.20408,NA
+Company 4,Austin,Texas,Sept,Quarter-3,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,Sept,Quarter-3,Profit,Profit - Product 3,3826.530612,2869.897959,NA
+Company 4,Austin,Texas,Oct,Quarter-4,Profit,Profit - Product 1,7653.061224,13010.20408,NA
+Company 4,Austin,Texas,Oct,Quarter-4,Profit,Profit - Product 2,3826.530612,1530.612245,NA
+Company 4,Austin,Texas,Oct,Quarter-4,Profit,Profit - Product 3,3826.530612,2869.897959,NA
+Company 4,Austin,Texas,Nov,Quarter-4,Profit,Profit - Product 1,7653.061224,13010.20408,NA
+Company 4,Austin,Texas,Nov,Quarter-4,Profit,Profit - Product 2,3826.530612,3443.877551,NA
+Company 4,Austin,Texas,Nov,Quarter-4,Profit,Profit - Product 3,3826.530612,2869.897959,NA
+Company 4,Austin,Texas,Dec,Quarter-4,Profit,Profit - Product 1,7653.061224,13010.20408,NA
+Company 4,Austin,Texas,Dec,Quarter-4,Profit,Profit - Product 2,3826.530612,3443.877551,NA
+Company 4,Austin,Texas,Dec,Quarter-4,Profit,Profit - Product 3,3826.530612,3443.877551,NA
+Company 5,Houston,Texas,Jan,Quarter-1,Profit,Profit - Product 1,17006.80272,20408.16327,NA
+Company 5,Houston,Texas,Jan,Quarter-1,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,Jan,Quarter-1,Profit,Profit - Product 3,8503.401361,7227.891156,NA
+Company 5,Houston,Texas,Feb,Quarter-1,Profit,Profit - Product 1,17006.80272,20408.16327,NA
+Company 5,Houston,Texas,Feb,Quarter-1,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,Feb,Quarter-1,Profit,Profit - Product 3,8503.401361,6802.721088,NA
+Company 5,Houston,Texas,Mar,Quarter-1,Profit,Profit - Product 1,17006.80272,20408.16327,NA
+Company 5,Houston,Texas,Mar,Quarter-1,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,Mar,Quarter-1,Profit,Profit - Product 3,8503.401361,7312.92517,NA
+Company 5,Houston,Texas,April,Quarter-2,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 5,Houston,Texas,April,Quarter-2,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,April,Quarter-2,Profit,Profit - Product 3,8503.401361,7653.061224,NA
+Company 5,Houston,Texas,May,Quarter-2,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 5,Houston,Texas,May,Quarter-2,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,May,Quarter-2,Profit,Profit - Product 3,8503.401361,9353.741497,NA
+Company 5,Houston,Texas,June,Quarter-2,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 5,Houston,Texas,June,Quarter-2,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,June,Quarter-2,Profit,Profit - Product 3,8503.401361,10204.08163,NA
+Company 5,Houston,Texas,July,Quarter-3,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 5,Houston,Texas,July,Quarter-3,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,July,Quarter-3,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 5,Houston,Texas,Aug,Quarter-3,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 5,Houston,Texas,Aug,Quarter-3,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,Aug,Quarter-3,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 5,Houston,Texas,Sept,Quarter-3,Profit,Profit - Product 1,17006.80272,28911.56463,NA
+Company 5,Houston,Texas,Sept,Quarter-3,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,Sept,Quarter-3,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 5,Houston,Texas,Oct,Quarter-4,Profit,Profit - Product 1,17006.80272,28911.56463,NA
+Company 5,Houston,Texas,Oct,Quarter-4,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 5,Houston,Texas,Oct,Quarter-4,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 5,Houston,Texas,Nov,Quarter-4,Profit,Profit - Product 1,17006.80272,28911.56463,NA
+Company 5,Houston,Texas,Nov,Quarter-4,Profit,Profit - Product 2,8503.401361,7653.061224,NA
+Company 5,Houston,Texas,Nov,Quarter-4,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 5,Houston,Texas,Dec,Quarter-4,Profit,Profit - Product 1,17006.80272,28911.56463,NA
+Company 5,Houston,Texas,Dec,Quarter-4,Profit,Profit - Product 2,8503.401361,7653.061224,NA
+Company 5,Houston,Texas,Dec,Quarter-4,Profit,Profit - Product 3,8503.401361,7653.061224,NA
+Company 6,Miami,Florida,Jan,Quarter-1,Profit,Profit - Product 1,17006.80272,20408.16327,NA
+Company 6,Miami,Florida,Jan,Quarter-1,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,Jan,Quarter-1,Profit,Profit - Product 3,8503.401361,7227.891156,NA
+Company 6,Miami,Florida,Feb,Quarter-1,Profit,Profit - Product 1,17006.80272,20408.16327,NA
+Company 6,Miami,Florida,Feb,Quarter-1,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,Feb,Quarter-1,Profit,Profit - Product 3,8503.401361,6802.721088,NA
+Company 6,Miami,Florida,Mar,Quarter-1,Profit,Profit - Product 1,17006.80272,20408.16327,NA
+Company 6,Miami,Florida,Mar,Quarter-1,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,Mar,Quarter-1,Profit,Profit - Product 3,8503.401361,7312.92517,NA
+Company 6,Miami,Florida,April,Quarter-2,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 6,Miami,Florida,April,Quarter-2,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,April,Quarter-2,Profit,Profit - Product 3,8503.401361,7653.061224,NA
+Company 6,Miami,Florida,May,Quarter-2,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 6,Miami,Florida,May,Quarter-2,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,May,Quarter-2,Profit,Profit - Product 3,8503.401361,9353.741497,NA
+Company 6,Miami,Florida,June,Quarter-2,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 6,Miami,Florida,June,Quarter-2,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,June,Quarter-2,Profit,Profit - Product 3,8503.401361,10204.08163,NA
+Company 6,Miami,Florida,July,Quarter-3,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 6,Miami,Florida,July,Quarter-3,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,July,Quarter-3,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 6,Miami,Florida,Aug,Quarter-3,Profit,Profit - Product 1,17006.80272,16156.46259,NA
+Company 6,Miami,Florida,Aug,Quarter-3,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,Aug,Quarter-3,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 6,Miami,Florida,Sept,Quarter-3,Profit,Profit - Product 1,17006.80272,28911.56463,NA
+Company 6,Miami,Florida,Sept,Quarter-3,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,Sept,Quarter-3,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 6,Miami,Florida,Oct,Quarter-4,Profit,Profit - Product 1,17006.80272,28911.56463,NA
+Company 6,Miami,Florida,Oct,Quarter-4,Profit,Profit - Product 2,8503.401361,3401.360544,NA
+Company 6,Miami,Florida,Oct,Quarter-4,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 6,Miami,Florida,Nov,Quarter-4,Profit,Profit - Product 1,17006.80272,28911.56463,NA
+Company 6,Miami,Florida,Nov,Quarter-4,Profit,Profit - Product 2,8503.401361,7653.061224,NA
+Company 6,Miami,Florida,Nov,Quarter-4,Profit,Profit - Product 3,8503.401361,6377.55102,NA
+Company 6,Miami,Florida,Dec,Quarter-4,Profit,Profit - Product 1,17006.80272,28911.56463,NA
+Company 6,Miami,Florida,Dec,Quarter-4,Profit,Profit - Product 2,8503.401361,7653.061224,NA
+Company 6,Miami,Florida,Dec,Quarter-4,Profit,Profit - Product 3,8503.401361,7653.061224,NA
+Company 7,Tampa,Florida,Jan,Quarter-1,Profit,Profit - Product 1,14172.3356,17006.80272,NA
+Company 7,Tampa,Florida,Jan,Quarter-1,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,Jan,Quarter-1,Profit,Profit - Product 3,7086.1678,6023.24263,NA
+Company 7,Tampa,Florida,Feb,Quarter-1,Profit,Profit - Product 1,14172.3356,17006.80272,NA
+Company 7,Tampa,Florida,Feb,Quarter-1,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,Feb,Quarter-1,Profit,Profit - Product 3,7086.1678,5668.93424,NA
+Company 7,Tampa,Florida,Mar,Quarter-1,Profit,Profit - Product 1,14172.3356,17006.80272,NA
+Company 7,Tampa,Florida,Mar,Quarter-1,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,Mar,Quarter-1,Profit,Profit - Product 3,7086.1678,6094.104308,NA
+Company 7,Tampa,Florida,April,Quarter-2,Profit,Profit - Product 1,14172.3356,13463.71882,NA
+Company 7,Tampa,Florida,April,Quarter-2,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,April,Quarter-2,Profit,Profit - Product 3,7086.1678,6377.55102,NA
+Company 7,Tampa,Florida,May,Quarter-2,Profit,Profit - Product 1,14172.3356,13463.71882,NA
+Company 7,Tampa,Florida,May,Quarter-2,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,May,Quarter-2,Profit,Profit - Product 3,7086.1678,7794.78458,NA
+Company 7,Tampa,Florida,June,Quarter-2,Profit,Profit - Product 1,14172.3356,13463.71882,NA
+Company 7,Tampa,Florida,June,Quarter-2,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,June,Quarter-2,Profit,Profit - Product 3,7086.1678,8503.401361,NA
+Company 7,Tampa,Florida,July,Quarter-3,Profit,Profit - Product 1,14172.3356,13463.71882,NA
+Company 7,Tampa,Florida,July,Quarter-3,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,July,Quarter-3,Profit,Profit - Product 3,7086.1678,5314.62585,NA
+Company 7,Tampa,Florida,Aug,Quarter-3,Profit,Profit - Product 1,14172.3356,13463.71882,NA
+Company 7,Tampa,Florida,Aug,Quarter-3,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,Aug,Quarter-3,Profit,Profit - Product 3,7086.1678,5314.62585,NA
+Company 7,Tampa,Florida,Sept,Quarter-3,Profit,Profit - Product 1,14172.3356,24092.97052,NA
+Company 7,Tampa,Florida,Sept,Quarter-3,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,Sept,Quarter-3,Profit,Profit - Product 3,7086.1678,5314.62585,NA
+Company 7,Tampa,Florida,Oct,Quarter-4,Profit,Profit - Product 1,14172.3356,24092.97052,NA
+Company 7,Tampa,Florida,Oct,Quarter-4,Profit,Profit - Product 2,7086.1678,2834.46712,NA
+Company 7,Tampa,Florida,Oct,Quarter-4,Profit,Profit - Product 3,7086.1678,5314.62585,NA
+Company 7,Tampa,Florida,Nov,Quarter-4,Profit,Profit - Product 1,14172.3356,24092.97052,NA
+Company 7,Tampa,Florida,Nov,Quarter-4,Profit,Profit - Product 2,7086.1678,6377.55102,NA
+Company 7,Tampa,Florida,Nov,Quarter-4,Profit,Profit - Product 3,7086.1678,5314.62585,NA
+Company 7,Tampa,Florida,Dec,Quarter-4,Profit,Profit - Product 1,14172.3356,24092.97052,NA
+Company 7,Tampa,Florida,Dec,Quarter-4,Profit,Profit - Product 2,7086.1678,6377.55102,NA
+Company 7,Tampa,Florida,Dec,Quarter-4,Profit,Profit - Product 3,7086.1678,6377.55102,NA
+Company 8,Denver,Colorado,Jan,Quarter-1,Profit,Profit - Product 1,3628.117914,4353.741497,NA
+Company 8,Denver,Colorado,Jan,Quarter-1,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,Jan,Quarter-1,Profit,Profit - Product 3,1814.058957,1541.950113,NA
+Company 8,Denver,Colorado,Feb,Quarter-1,Profit,Profit - Product 1,3628.117914,4353.741497,NA
+Company 8,Denver,Colorado,Feb,Quarter-1,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,Feb,Quarter-1,Profit,Profit - Product 3,1814.058957,1451.247166,NA
+Company 8,Denver,Colorado,Mar,Quarter-1,Profit,Profit - Product 1,3628.117914,4353.741497,NA
+Company 8,Denver,Colorado,Mar,Quarter-1,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,Mar,Quarter-1,Profit,Profit - Product 3,1814.058957,1560.090703,NA
+Company 8,Denver,Colorado,April,Quarter-2,Profit,Profit - Product 1,3628.117914,3446.712018,NA
+Company 8,Denver,Colorado,April,Quarter-2,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,April,Quarter-2,Profit,Profit - Product 3,1814.058957,1632.653061,NA
+Company 8,Denver,Colorado,May,Quarter-2,Profit,Profit - Product 1,3628.117914,3446.712018,NA
+Company 8,Denver,Colorado,May,Quarter-2,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,May,Quarter-2,Profit,Profit - Product 3,1814.058957,1995.464853,NA
+Company 8,Denver,Colorado,June,Quarter-2,Profit,Profit - Product 1,3628.117914,3446.712018,NA
+Company 8,Denver,Colorado,June,Quarter-2,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,June,Quarter-2,Profit,Profit - Product 3,1814.058957,2176.870748,NA
+Company 8,Denver,Colorado,July,Quarter-3,Profit,Profit - Product 1,3628.117914,3446.712018,NA
+Company 8,Denver,Colorado,July,Quarter-3,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,July,Quarter-3,Profit,Profit - Product 3,1814.058957,1360.544218,NA
+Company 8,Denver,Colorado,Aug,Quarter-3,Profit,Profit - Product 1,3628.117914,3446.712018,NA
+Company 8,Denver,Colorado,Aug,Quarter-3,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,Aug,Quarter-3,Profit,Profit - Product 3,1814.058957,1360.544218,NA
+Company 8,Denver,Colorado,Sept,Quarter-3,Profit,Profit - Product 1,3628.117914,6167.800454,NA
+Company 8,Denver,Colorado,Sept,Quarter-3,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,Sept,Quarter-3,Profit,Profit - Product 3,1814.058957,1360.544218,NA
+Company 8,Denver,Colorado,Oct,Quarter-4,Profit,Profit - Product 1,3628.117914,6167.800454,NA
+Company 8,Denver,Colorado,Oct,Quarter-4,Profit,Profit - Product 2,1814.058957,725.6235828,NA
+Company 8,Denver,Colorado,Oct,Quarter-4,Profit,Profit - Product 3,1814.058957,1360.544218,NA
+Company 8,Denver,Colorado,Nov,Quarter-4,Profit,Profit - Product 1,3628.117914,6167.800454,NA
+Company 8,Denver,Colorado,Nov,Quarter-4,Profit,Profit - Product 2,1814.058957,1632.653061,NA
+Company 8,Denver,Colorado,Nov,Quarter-4,Profit,Profit - Product 3,1814.058957,1360.544218,NA
+Company 8,Denver,Colorado,Dec,Quarter-4,Profit,Profit - Product 1,3628.117914,6167.800454,NA
+Company 8,Denver,Colorado,Dec,Quarter-4,Profit,Profit - Product 2,1814.058957,1632.653061,NA
+Company 8,Denver,Colorado,Dec,Quarter-4,Profit,Profit - Product 3,1814.058957,1632.653061,NA
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Profit,Profit - Product 1,12471.65533,14965.98639,NA
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,Jan,Quarter-1,Profit,Profit - Product 3,6235.827664,5300.453515,NA
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Profit,Profit - Product 1,12471.65533,14965.98639,NA
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,Feb,Quarter-1,Profit,Profit - Product 3,6235.827664,4988.662132,NA
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Profit,Profit - Product 1,12471.65533,14965.98639,NA
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,Mar,Quarter-1,Profit,Profit - Product 3,6235.827664,5362.811791,NA
+Company 9,Phoenix,Arizona,April,Quarter-2,Profit,Profit - Product 1,12471.65533,11848.07256,NA
+Company 9,Phoenix,Arizona,April,Quarter-2,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,April,Quarter-2,Profit,Profit - Product 3,6235.827664,5612.244898,NA
+Company 9,Phoenix,Arizona,May,Quarter-2,Profit,Profit - Product 1,12471.65533,11848.07256,NA
+Company 9,Phoenix,Arizona,May,Quarter-2,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,May,Quarter-2,Profit,Profit - Product 3,6235.827664,6859.410431,NA
+Company 9,Phoenix,Arizona,June,Quarter-2,Profit,Profit - Product 1,12471.65533,11848.07256,NA
+Company 9,Phoenix,Arizona,June,Quarter-2,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,June,Quarter-2,Profit,Profit - Product 3,6235.827664,7482.993197,NA
+Company 9,Phoenix,Arizona,July,Quarter-3,Profit,Profit - Product 1,12471.65533,11848.07256,NA
+Company 9,Phoenix,Arizona,July,Quarter-3,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,July,Quarter-3,Profit,Profit - Product 3,6235.827664,4676.870748,NA
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Profit,Profit - Product 1,12471.65533,11848.07256,NA
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,Aug,Quarter-3,Profit,Profit - Product 3,6235.827664,4676.870748,NA
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Profit,Profit - Product 1,12471.65533,21201.81406,NA
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,Sept,Quarter-3,Profit,Profit - Product 3,6235.827664,4676.870748,NA
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Profit,Profit - Product 1,12471.65533,21201.81406,NA
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Profit,Profit - Product 2,6235.827664,2494.331066,NA
+Company 9,Phoenix,Arizona,Oct,Quarter-4,Profit,Profit - Product 3,6235.827664,4676.870748,NA
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Profit,Profit - Product 1,12471.65533,21201.81406,NA
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Profit,Profit - Product 2,6235.827664,5612.244898,NA
+Company 9,Phoenix,Arizona,Nov,Quarter-4,Profit,Profit - Product 3,6235.827664,4676.870748,NA
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Profit,Profit - Product 1,12471.65533,21201.81406,NA
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Profit,Profit - Product 2,6235.827664,5612.244898,NA
+Company 9,Phoenix,Arizona,Dec,Quarter-4,Profit,Profit - Product 3,6235.827664,5612.244898,NA
+Company 10,Tucson,Arizona,Jan,Quarter-1,Profit,Profit - Product 1,12244.89796,14693.87755,NA
+Company 10,Tucson,Arizona,Jan,Quarter-1,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,Jan,Quarter-1,Profit,Profit - Product 3,6122.44898,5204.081633,NA
+Company 10,Tucson,Arizona,Feb,Quarter-1,Profit,Profit - Product 1,12244.89796,14693.87755,NA
+Company 10,Tucson,Arizona,Feb,Quarter-1,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,Feb,Quarter-1,Profit,Profit - Product 3,6122.44898,4897.959184,NA
+Company 10,Tucson,Arizona,Mar,Quarter-1,Profit,Profit - Product 1,12244.89796,14693.87755,NA
+Company 10,Tucson,Arizona,Mar,Quarter-1,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,Mar,Quarter-1,Profit,Profit - Product 3,6122.44898,5265.306122,NA
+Company 10,Tucson,Arizona,April,Quarter-2,Profit,Profit - Product 1,12244.89796,11632.65306,NA
+Company 10,Tucson,Arizona,April,Quarter-2,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,April,Quarter-2,Profit,Profit - Product 3,6122.44898,5510.204082,NA
+Company 10,Tucson,Arizona,May,Quarter-2,Profit,Profit - Product 1,12244.89796,11632.65306,NA
+Company 10,Tucson,Arizona,May,Quarter-2,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,May,Quarter-2,Profit,Profit - Product 3,6122.44898,6734.693878,NA
+Company 10,Tucson,Arizona,June,Quarter-2,Profit,Profit - Product 1,12244.89796,11632.65306,NA
+Company 10,Tucson,Arizona,June,Quarter-2,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,June,Quarter-2,Profit,Profit - Product 3,6122.44898,7346.938776,NA
+Company 10,Tucson,Arizona,July,Quarter-3,Profit,Profit - Product 1,12244.89796,11632.65306,NA
+Company 10,Tucson,Arizona,July,Quarter-3,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,July,Quarter-3,Profit,Profit - Product 3,6122.44898,4591.836735,NA
+Company 10,Tucson,Arizona,Aug,Quarter-3,Profit,Profit - Product 1,12244.89796,11632.65306,NA
+Company 10,Tucson,Arizona,Aug,Quarter-3,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,Aug,Quarter-3,Profit,Profit - Product 3,6122.44898,4591.836735,NA
+Company 10,Tucson,Arizona,Sept,Quarter-3,Profit,Profit - Product 1,12244.89796,20816.32653,NA
+Company 10,Tucson,Arizona,Sept,Quarter-3,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,Sept,Quarter-3,Profit,Profit - Product 3,6122.44898,4591.836735,NA
+Company 10,Tucson,Arizona,Oct,Quarter-4,Profit,Profit - Product 1,12244.89796,20816.32653,NA
+Company 10,Tucson,Arizona,Oct,Quarter-4,Profit,Profit - Product 2,6122.44898,2448.979592,NA
+Company 10,Tucson,Arizona,Oct,Quarter-4,Profit,Profit - Product 3,6122.44898,4591.836735,NA
+Company 10,Tucson,Arizona,Nov,Quarter-4,Profit,Profit - Product 1,12244.89796,20816.32653,NA
+Company 10,Tucson,Arizona,Nov,Quarter-4,Profit,Profit - Product 2,6122.44898,5510.204082,NA
+Company 10,Tucson,Arizona,Nov,Quarter-4,Profit,Profit - Product 3,6122.44898,4591.836735,NA
+Company 10,Tucson,Arizona,Dec,Quarter-4,Profit,Profit - Product 1,12244.89796,20816.32653,NA
+Company 10,Tucson,Arizona,Dec,Quarter-4,Profit,Profit - Product 2,6122.44898,5510.204082,NA
+Company 10,Tucson,Arizona,Dec,Quarter-4,Profit,Profit - Product 3,6122.44898,5510.204082,NA
+Company 11,New York,New York,Jan,Quarter-1,Profit,Profit - Product 1,21428.57143,25714.28571,NA
+Company 11,New York,New York,Jan,Quarter-1,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,Jan,Quarter-1,Profit,Profit - Product 3,10714.28571,9107.142857,NA
+Company 11,New York,New York,Feb,Quarter-1,Profit,Profit - Product 1,21428.57143,25714.28571,NA
+Company 11,New York,New York,Feb,Quarter-1,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,Feb,Quarter-1,Profit,Profit - Product 3,10714.28571,8571.428571,NA
+Company 11,New York,New York,Mar,Quarter-1,Profit,Profit - Product 1,21428.57143,25714.28571,NA
+Company 11,New York,New York,Mar,Quarter-1,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,Mar,Quarter-1,Profit,Profit - Product 3,10714.28571,9214.285714,NA
+Company 11,New York,New York,April,Quarter-2,Profit,Profit - Product 1,21428.57143,20357.14286,NA
+Company 11,New York,New York,April,Quarter-2,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,April,Quarter-2,Profit,Profit - Product 3,10714.28571,9642.857143,NA
+Company 11,New York,New York,May,Quarter-2,Profit,Profit - Product 1,21428.57143,20357.14286,NA
+Company 11,New York,New York,May,Quarter-2,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,May,Quarter-2,Profit,Profit - Product 3,10714.28571,11785.71429,NA
+Company 11,New York,New York,June,Quarter-2,Profit,Profit - Product 1,21428.57143,20357.14286,NA
+Company 11,New York,New York,June,Quarter-2,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,June,Quarter-2,Profit,Profit - Product 3,10714.28571,12857.14286,NA
+Company 11,New York,New York,July,Quarter-3,Profit,Profit - Product 1,21428.57143,20357.14286,NA
+Company 11,New York,New York,July,Quarter-3,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,July,Quarter-3,Profit,Profit - Product 3,10714.28571,8035.714286,NA
+Company 11,New York,New York,Aug,Quarter-3,Profit,Profit - Product 1,21428.57143,20357.14286,NA
+Company 11,New York,New York,Aug,Quarter-3,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,Aug,Quarter-3,Profit,Profit - Product 3,10714.28571,8035.714286,NA
+Company 11,New York,New York,Sept,Quarter-3,Profit,Profit - Product 1,21428.57143,36428.57143,NA
+Company 11,New York,New York,Sept,Quarter-3,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,Sept,Quarter-3,Profit,Profit - Product 3,10714.28571,8035.714286,NA
+Company 11,New York,New York,Oct,Quarter-4,Profit,Profit - Product 1,21428.57143,36428.57143,NA
+Company 11,New York,New York,Oct,Quarter-4,Profit,Profit - Product 2,10714.28571,4285.714286,NA
+Company 11,New York,New York,Oct,Quarter-4,Profit,Profit - Product 3,10714.28571,8035.714286,NA
+Company 11,New York,New York,Nov,Quarter-4,Profit,Profit - Product 1,21428.57143,36428.57143,NA
+Company 11,New York,New York,Nov,Quarter-4,Profit,Profit - Product 2,10714.28571,9642.857143,NA
+Company 11,New York,New York,Nov,Quarter-4,Profit,Profit - Product 3,10714.28571,8035.714286,NA
+Company 11,New York,New York,Dec,Quarter-4,Profit,Profit - Product 1,21428.57143,36428.57143,NA
+Company 11,New York,New York,Dec,Quarter-4,Profit,Profit - Product 2,10714.28571,9642.857143,NA
+Company 11,New York,New York,Dec,Quarter-4,Profit,Profit - Product 3,10714.28571,9642.857143,NA
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Profit,Profit - Product 1,25510.20408,30612.2449,NA
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,Jan,Quarter-1,Profit,Profit - Product 3,12755.10204,10841.83673,NA
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Profit,Profit - Product 1,25510.20408,30612.2449,NA
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,Feb,Quarter-1,Profit,Profit - Product 3,12755.10204,10204.08163,NA
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Profit,Profit - Product 1,25510.20408,30612.2449,NA
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,Mar,Quarter-1,Profit,Profit - Product 3,12755.10204,10969.38776,NA
+Company 12,Omaha,Nebraska,April,Quarter-2,Profit,Profit - Product 1,25510.20408,24234.69388,NA
+Company 12,Omaha,Nebraska,April,Quarter-2,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,April,Quarter-2,Profit,Profit - Product 3,12755.10204,11479.59184,NA
+Company 12,Omaha,Nebraska,May,Quarter-2,Profit,Profit - Product 1,25510.20408,24234.69388,NA
+Company 12,Omaha,Nebraska,May,Quarter-2,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,May,Quarter-2,Profit,Profit - Product 3,12755.10204,14030.61224,NA
+Company 12,Omaha,Nebraska,June,Quarter-2,Profit,Profit - Product 1,25510.20408,24234.69388,NA
+Company 12,Omaha,Nebraska,June,Quarter-2,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,June,Quarter-2,Profit,Profit - Product 3,12755.10204,15306.12245,NA
+Company 12,Omaha,Nebraska,July,Quarter-3,Profit,Profit - Product 1,25510.20408,24234.69388,NA
+Company 12,Omaha,Nebraska,July,Quarter-3,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,July,Quarter-3,Profit,Profit - Product 3,12755.10204,9566.326531,NA
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Profit,Profit - Product 1,25510.20408,24234.69388,NA
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,Aug,Quarter-3,Profit,Profit - Product 3,12755.10204,9566.326531,NA
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Profit,Profit - Product 1,25510.20408,43367.34694,NA
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,Sept,Quarter-3,Profit,Profit - Product 3,12755.10204,9566.326531,NA
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Profit,Profit - Product 1,25510.20408,43367.34694,NA
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Profit,Profit - Product 2,12755.10204,5102.040816,NA
+Company 12,Omaha,Nebraska,Oct,Quarter-4,Profit,Profit - Product 3,12755.10204,9566.326531,NA
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Profit,Profit - Product 1,25510.20408,43367.34694,NA
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Profit,Profit - Product 2,12755.10204,11479.59184,NA
+Company 12,Omaha,Nebraska,Nov,Quarter-4,Profit,Profit - Product 3,12755.10204,9566.326531,NA
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Profit,Profit - Product 1,25510.20408,43367.34694,NA
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Profit,Profit - Product 2,12755.10204,11479.59184,NA
+Company 12,Omaha,Nebraska,Dec,Quarter-4,Profit,Profit - Product 3,12755.10204,11479.59184,NA
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Profit,Profit - Product 1,36621.31519,43945.57823,NA
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,Jan,Quarter-1,Profit,Profit - Product 3,18310.6576,15564.05896,NA
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Profit,Profit - Product 1,36621.31519,43945.57823,NA
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,Feb,Quarter-1,Profit,Profit - Product 3,18310.6576,14648.52608,NA
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Profit,Profit - Product 1,36621.31519,43945.57823,NA
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,Mar,Quarter-1,Profit,Profit - Product 3,18310.6576,15747.16553,NA
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Profit,Profit - Product 1,36621.31519,34790.24943,NA
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,April,Quarter-2,Profit,Profit - Product 3,18310.6576,16479.59184,NA
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Profit,Profit - Product 1,36621.31519,34790.24943,NA
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,May,Quarter-2,Profit,Profit - Product 3,18310.6576,20141.72336,NA
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Profit,Profit - Product 1,36621.31519,34790.24943,NA
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,June,Quarter-2,Profit,Profit - Product 3,18310.6576,21972.78912,NA
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Profit,Profit - Product 1,36621.31519,34790.24943,NA
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,July,Quarter-3,Profit,Profit - Product 3,18310.6576,13732.9932,NA
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Profit,Profit - Product 1,36621.31519,34790.24943,NA
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,Aug,Quarter-3,Profit,Profit - Product 3,18310.6576,13732.9932,NA
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Profit,Profit - Product 1,36621.31519,62256.23583,NA
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,Sept,Quarter-3,Profit,Profit - Product 3,18310.6576,13732.9932,NA
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Profit,Profit - Product 1,36621.31519,62256.23583,NA
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Profit,Profit - Product 2,18310.6576,7324.263039,NA
+Company 13,Nebraska City,Nebraska,Oct,Quarter-4,Profit,Profit - Product 3,18310.6576,13732.9932,NA
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Profit,Profit - Product 1,36621.31519,62256.23583,NA
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Profit,Profit - Product 2,18310.6576,16479.59184,NA
+Company 13,Nebraska City,Nebraska,Nov,Quarter-4,Profit,Profit - Product 3,18310.6576,13732.9932,NA
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Profit,Profit - Product 1,36621.31519,62256.23583,NA
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Profit,Profit - Product 2,18310.6576,16479.59184,NA
+Company 13,Nebraska City,Nebraska,Dec,Quarter-4,Profit,Profit - Product 3,18310.6576,16479.59184,NA
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Profit,Profit - Product 1,7936.507937,9523.809524,NA
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,Jan,Quarter-1,Profit,Profit - Product 3,3968.253968,3373.015873,NA
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Profit,Profit - Product 1,7936.507937,9523.809524,NA
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,Feb,Quarter-1,Profit,Profit - Product 3,3968.253968,3174.603175,NA
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Profit,Profit - Product 1,7936.507937,9523.809524,NA
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,Mar,Quarter-1,Profit,Profit - Product 3,3968.253968,3412.698413,NA
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Profit,Profit - Product 1,7936.507937,7539.68254,NA
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,April,Quarter-2,Profit,Profit - Product 3,3968.253968,3571.428571,NA
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Profit,Profit - Product 1,7936.507937,7539.68254,NA
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,May,Quarter-2,Profit,Profit - Product 3,3968.253968,4365.079365,NA
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Profit,Profit - Product 1,7936.507937,7539.68254,NA
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,June,Quarter-2,Profit,Profit - Product 3,3968.253968,4761.904762,NA
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Profit,Profit - Product 1,7936.507937,7539.68254,NA
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,July,Quarter-3,Profit,Profit - Product 3,3968.253968,2976.190476,NA
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Profit,Profit - Product 1,7936.507937,7539.68254,NA
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,Aug,Quarter-3,Profit,Profit - Product 3,3968.253968,2976.190476,NA
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Profit,Profit - Product 1,7936.507937,13492.06349,NA
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,Sept,Quarter-3,Profit,Profit - Product 3,3968.253968,2976.190476,NA
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Profit,Profit - Product 1,7936.507937,13492.06349,NA
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Profit,Profit - Product 2,3968.253968,1587.301587,NA
+Company 14,Colorado Springs,Colorado,Oct,Quarter-4,Profit,Profit - Product 3,3968.253968,2976.190476,NA
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Profit,Profit - Product 1,7936.507937,13492.06349,NA
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Profit,Profit - Product 2,3968.253968,3571.428571,NA
+Company 14,Colorado Springs,Colorado,Nov,Quarter-4,Profit,Profit - Product 3,3968.253968,2976.190476,NA
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Profit,Profit - Product 1,7936.507937,13492.06349,NA
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Profit,Profit - Product 2,3968.253968,3571.428571,NA
+Company 14,Colorado Springs,Colorado,Dec,Quarter-4,Profit,Profit - Product 3,3968.253968,3571.428571,NA
