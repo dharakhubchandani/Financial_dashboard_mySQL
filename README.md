@@ -22,7 +22,7 @@ The dataset could be considered as a dataset of various restaurants, various bra
 •	Salesperson – Who achieved the sales for that product in that particular month.
 
 # Steps followed in mySQL Workbench:
-1.	Checked Schema Profit_loss_abc.
+1.	Created Schema Profit_loss_abc.
 2.	Created table ‘dataset’.
 3.	Imported the datafile in mySQL Workbench. 
 4.	Wrote queries to extract various tables that can be used in creating dashboard. 
